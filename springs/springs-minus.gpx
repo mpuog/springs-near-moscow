@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+ <time>2021-04-19T14:03:13Z</time>
+ <bounds minlat="54.886087" minlon="38.337049" maxlat="54.886087" maxlon="38.337049"/>
+</metadata>
+<wpt lat="54.8860870" lon="38.3370490">
+ <time>2021-04-19T16:57:07.399Z</time>
+ <name>W001</name>
+ <cmt>Найти не удалось.</cmt>
+ <desc>Найти не удалось.</desc>
+ <sym>Block, Red</sym>
+</wpt>
+</gpx>

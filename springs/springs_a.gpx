@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+ <time>2021-04-19T14:05:33Z</time>
+ <bounds minlat="55.903200" minlon="37.519800" maxlat="56.535890" maxlon="38.151950"/>
+</metadata>
+<wpt lat="55.9032000" lon="37.6205100">
+ <ele>147.523193</ele>
+ <time>2021-04-19T14:03:55.658Z</time>
+ <name>A01</name>
+ <cmt>29-ЯНВ-13 13:31:05</cmt>
+ <desc>29-ЯНВ-13 13:31:05</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9869610" lon="37.7485130">
+ <ele>157.886398</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A02</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.0447100" lon="37.6023600">
+ <ele>170.078400</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A03</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1280200" lon="37.5482500">
+ <ele>167.030396</ele>
+ <time>2021-04-19T14:03:55.660Z</time>
+ <name>A04</name>
+ <cmt>28-МАР-11 9:12:32</cmt>
+ <desc>28-МАР-11 9:12:32</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1339320" lon="37.6056550">
+ <ele>177.088806</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A05</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1329250" lon="37.7140860">
+ <time>2014-07-22T21:58:51.392Z</time>
+ <name>A06</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1548680" lon="37.8507080">
+ <ele>206.959198</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A07</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1581570" lon="37.8441400">
+ <ele>212.140793</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A08</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1779000" lon="37.5198000">
+ <ele>153.923996</ele>
+ <time>2021-04-19T14:03:55.663Z</time>
+ <name>A09</name>
+ <cmt>13-JAN-08 8:48:31</cmt>
+ <desc>13-JAN-08 8:48:31</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1796100" lon="37.8694700">
+ <ele>199.339203</ele>
+ <time>2007-03-05T20:30:16.894Z</time>
+ <name>A10</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1792400" lon="37.9252600">
+ <ele>185.623199</ele>
+ <time>2021-04-19T14:03:55.664Z</time>
+ <name>A11A</name>
+ <cmt>22-ДЕК-09 10:14:46</cmt>
+ <desc>22-ДЕК-09 10:14:46</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1828400" lon="37.9245900">
+ <ele>190.195206</ele>
+ <time>2021-04-19T14:03:55.665Z</time>
+ <name>A11B</name>
+ <cmt>22-ДЕК-09 10:26:51</cmt>
+ <desc>22-ДЕК-09 10:26:51</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1907300" lon="37.8023700">
+ <ele>208.178406</ele>
+ <time>2007-03-05T20:30:16.989Z</time>
+ <name>A12</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1967780" lon="37.5431680">
+ <ele>155.143204</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A13</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2086400" lon="37.6881030">
+ <ele>168.859207</ele>
+ <time>2006-04-03T10:34:05.272Z</time>
+ <name>A14</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1984100" lon="37.9467000">
+ <ele>184.099197</ele>
+ <time>2006-12-04T10:20:14.709Z</time>
+ <name>A15A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.1983400" lon="37.9464400">
+ <ele>185.927994</ele>
+ <time>2006-12-04T10:20:14.795Z</time>
+ <name>A15B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2024200" lon="37.8117200">
+ <ele>211.226395</ele>
+ <time>2021-04-19T14:03:55.669Z</time>
+ <name>A16</name>
+ <cmt>03-АПР-11 11:21:30</cmt>
+ <desc>03-АПР-11 11:21:30</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2099700" lon="37.9090900">
+ <ele>197.205597</ele>
+ <time>2021-04-19T14:03:55.670Z</time>
+ <name>A17</name>
+ <cmt>01-ДЕК-09 11:05:02</cmt>
+ <desc>01-ДЕК-09 11:05:02</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2233500" lon="37.9545800">
+ <ele>188.061600</ele>
+ <time>2006-12-04T10:20:14.976Z</time>
+ <name>A18A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2244000" lon="37.9605200">
+ <ele>187.756805</ele>
+ <time>2006-12-04T10:20:14.089Z</time>
+ <name>A18B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2096000" lon="37.6604000">
+ <ele>170.383194</ele>
+ <time>2021-04-19T14:03:55.672Z</time>
+ <name>A19</name>
+ <cmt>11-NOV-07 11:43:54</cmt>
+ <desc>11-NOV-07 11:43:54</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2174430" lon="37.6889630">
+ <ele>175.869598</ele>
+ <time>2006-04-03T10:34:05.028Z</time>
+ <name>A20</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2346500" lon="37.7606700">
+ <ele>174.955200</ele>
+ <time>2007-01-29T10:22:57.063Z</time>
+ <name>A21</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2440600" lon="37.6339600">
+ <ele>184.099197</ele>
+ <time>2021-04-19T14:03:55.676Z</time>
+ <name>A22</name>
+ <cmt>11-NOV-07 12:35:18</cmt>
+ <desc>11-NOV-07 12:35:18</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2534100" lon="37.8411500">
+ <ele>186.537598</ele>
+ <time>2021-04-19T14:03:55.676Z</time>
+ <name>A23</name>
+ <cmt>29-ФЕВ-12 12:56:34</cmt>
+ <desc>29-ФЕВ-12 12:56:34</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2593300" lon="37.8587700">
+ <ele>177.088806</ele>
+ <time>2006-06-21T21:52:24.648Z</time>
+ <name>A24A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2594900" lon="37.8589200">
+ <ele>177.088806</ele>
+ <time>2006-06-21T21:52:24.752Z</time>
+ <name>A24B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2590600" lon="37.5392800">
+ <ele>147.523193</ele>
+ <time>2006-10-04T21:55:31.117Z</time>
+ <name>A25A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2588200" lon="37.5403800">
+ <ele>147.523193</ele>
+ <time>2006-10-04T21:55:31.203Z</time>
+ <name>A25B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2606500" lon="37.5477000">
+ <ele>147.523193</ele>
+ <time>2006-10-04T21:55:31.307Z</time>
+ <name>A26</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2576500" lon="37.9063700">
+ <ele>176.174393</ele>
+ <time>2006-12-04T10:20:15.072Z</time>
+ <name>A27</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2635200" lon="37.5648200">
+ <ele>180.746399</ele>
+ <time>2006-10-04T21:55:31.488Z</time>
+ <name>A28A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2637300" lon="37.5648000">
+ <ele>178.307999</ele>
+ <time>2006-10-04T21:55:31.393Z</time>
+ <name>A28B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2745500" lon="37.5965000">
+ <ele>182.880005</ele>
+ <time>2021-04-19T14:03:55.682Z</time>
+ <name>A29</name>
+ <cmt>11-NOV-07 14:55:45</cmt>
+ <desc>11-NOV-07 14:55:45</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2748900" lon="37.7279200">
+ <ele>174.955200</ele>
+ <time>2006-06-21T21:52:24.562Z</time>
+ <name>A30</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2747700" lon="37.9300100">
+ <ele>191.109604</ele>
+ <time>2006-06-21T21:52:24.839Z</time>
+ <name>A31</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2800600" lon="37.6828300">
+ <ele>168.249603</ele>
+ <time>2006-06-21T21:52:24.458Z</time>
+ <name>A32</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.2923030" lon="37.6225770">
+ <time>2014-09-06T14:49:54.577Z</time>
+ <name>A33</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3593700" lon="37.8565700">
+ <ele>188.975998</ele>
+ <time>2021-04-19T14:03:55.685Z</time>
+ <name>A34</name>
+ <cmt>04-ОКТ-11 9:28:04</cmt>
+ <desc>04-ОКТ-11 9:28:04</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3578100" lon="37.9038100">
+ <ele>181.051193</ele>
+ <time>2021-04-19T14:03:55.685Z</time>
+ <name>A35</name>
+ <cmt>23-CЕН-11 10:58:48</cmt>
+ <desc>23-CЕН-11 10:58:48</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3715400" lon="37.9051120">
+ <ele>174.955200</ele>
+ <time>2006-04-03T10:34:05.028Z</time>
+ <name>A36</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3827200" lon="37.9160800">
+ <ele>171.907196</ele>
+ <time>2021-04-19T14:03:55.686Z</time>
+ <name>A37</name>
+ <cmt>23-CЕН-11 16:14:08</cmt>
+ <desc>23-CЕН-11 16:14:08</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3025000" lon="38.0724200">
+ <ele>226.161606</ele>
+ <time>2006-06-21T21:52:24.372Z</time>
+ <name>A38</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3143400" lon="38.0120800">
+ <ele>202.387207</ele>
+ <time>2021-04-19T14:03:55.688Z</time>
+ <name>A39</name>
+ <cmt>23-ДЕК-11 12:38:39</cmt>
+ <desc>23-ДЕК-11 12:38:39</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3915000" lon="37.8288100">
+ <ele>167.944794</ele>
+ <time>2021-04-19T14:03:55.688Z</time>
+ <name>A40</name>
+ <cmt>04-ОКТ-11 11:41:30</cmt>
+ <desc>04-ОКТ-11 11:41:30</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3902700" lon="37.8362800">
+ <ele>156.667206</ele>
+ <time>2021-04-19T14:03:55.689Z</time>
+ <name>A41</name>
+ <cmt>23-CЕН-11 13:21:51</cmt>
+ <desc>23-CЕН-11 13:21:51</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4104000" lon="37.9332600">
+ <ele>242.925598</ele>
+ <time>2021-04-19T14:03:55.690Z</time>
+ <name>A42</name>
+ <cmt>19-МАР-12 13:51:50</cmt>
+ <desc>19-МАР-12 13:51:50</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4068800" lon="37.8155800">
+ <ele>167.030396</ele>
+ <time>2021-04-19T14:03:55.690Z</time>
+ <name>A43</name>
+ <cmt>04-ОКТ-11 12:57:25</cmt>
+ <desc>04-ОКТ-11 12:57:25</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.3990800" lon="38.1519500">
+ <ele>187.147202</ele>
+ <time>2021-04-19T14:03:55.691Z</time>
+ <name>A44</name>
+ <cmt>30-МАР-11 11:51:05</cmt>
+ <desc>30-МАР-11 11:51:05</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4109300" lon="37.6336000">
+ <ele>151.180801</ele>
+ <time>2006-07-24T22:34:10.369Z</time>
+ <name>A45</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4303900" lon="37.8855800">
+ <ele>191.414398</ele>
+ <time>2021-04-19T14:03:55.692Z</time>
+ <name>A46</name>
+ <cmt>20-ОКТ-11 16:58:49</cmt>
+ <desc>20-ОКТ-11 16:58:49</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4562700" lon="37.8559700">
+ <ele>171.297607</ele>
+ <time>2021-04-19T14:03:55.693Z</time>
+ <name>A47A</name>
+ <cmt>20-ОКТ-11 10:31:27</cmt>
+ <desc>20-ОКТ-11 10:31:27</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4561600" lon="37.8604600">
+ <ele>170.688004</ele>
+ <time>2021-04-19T14:03:55.694Z</time>
+ <name>A47B</name>
+ <cmt>01-НОЯ-11 9:33:57</cmt>
+ <desc>01-НОЯ-11 9:33:57</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4634300" lon="37.8833500">
+ <ele>171.297607</ele>
+ <time>2021-04-19T14:03:55.694Z</time>
+ <name>A48</name>
+ <cmt>20-ОКТ-11 12:14:18</cmt>
+ <desc>20-ОКТ-11 12:14:18</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4670000" lon="37.9083600">
+ <ele>183.794403</ele>
+ <time>2021-04-19T14:03:55.695Z</time>
+ <name>A49A</name>
+ <cmt>20-ОКТ-11 13:04:16</cmt>
+ <desc>20-ОКТ-11 13:04:16</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4668400" lon="37.9092800">
+ <ele>183.794403</ele>
+ <time>2021-04-19T14:03:55.696Z</time>
+ <name>A49B</name>
+ <cmt>20-ОКТ-11 13:13:17</cmt>
+ <desc>20-ОКТ-11 13:13:17</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4662400" lon="37.8520700">
+ <ele>155.752808</ele>
+ <time>2006-07-24T22:34:10.464Z</time>
+ <name>A50</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.4691900" lon="37.7409300">
+ <ele>189.890396</ele>
+ <time>2021-04-19T14:03:55.697Z</time>
+ <name>A51</name>
+ <cmt>17-МАЙ-11 13:22:56</cmt>
+ <desc>17-МАЙ-11 13:22:56</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="56.5358900" lon="37.8847300">
+ <ele>191.414398</ele>
+ <time>2006-07-24T22:34:10.551Z</time>
+ <name>A52</name>
+ <sym>Drinking Water</sym>
+</wpt>
+</gpx>
