@@ -1,1165 +1,864 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<gpx version="1.1" creator="rconv.exe: OziExplorer WPT and PLT to GPX converter">
- <metadata>
-  <name>springs_i</name>
-  <desc>Сектор I</desc>
-  <bounds minlat="55.550202" maxlat="55.93647" minlon="35.650547" maxlon="37.319223"/>
-  <xlink href="Сектор I.wpt"/>
- </metadata>
- <wpt lat="55.73035" lon="37.31694">
-  <ele>173.736</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I01</name>
-  <desc>19-АПР-10 16:08:18</desc>
-  <xdesc>19-АПР-10 16:08:18<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.742603" lon="37.319223">
-  <ele>139.9032</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I02</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.70496" lon="37.3">
-  <ele>192.9384</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I03A</name>
-  <desc>29-JAN-08 9:00:19</desc>
-  <xdesc>29-JAN-08 9:00:19<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.70478" lon="37.30034">
-  <ele>193.2432</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I03B</name>
-  <desc>29-JAN-08 9:05:21</desc>
-  <xdesc>29-JAN-08 9:05:21<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.792776" lon="37.248627">
-  <ele>156.972</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I04</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.7019" lon="37.26011">
-  <ele>175.26</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I05</name>
-  <desc>29-JAN-08 10:57:35</desc>
-  <xdesc>29-JAN-08 10:57:35<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.69656" lon="37.25396">
-  <ele>174.9552</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I06</name>
-  <desc>29-JAN-08 10:34:27</desc>
-  <xdesc>29-JAN-08 10:34:27<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.814779" lon="37.229978">
-  <ele>170.0784</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I07A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.811559" lon="37.232198">
-  <ele>173.1264</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I07B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.79159" lon="37.2088">
-  <ele>162.1536</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I08</name>
-  <desc>05-АПР-09 10:45:20</desc>
-  <xdesc>05-АПР-09 10:45:20<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.700627" lon="37.191093">
-  <ele>149.0472</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I09A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.701197" lon="37.191369">
-  <ele>149.0472</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I09B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.720756" lon="37.192089">
-  <ele>135.9408</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I10</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.70498" lon="37.171387">
-  <ele>142.9512</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I11N</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.695459" lon="37.163656">
-  <ele>157.8864</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I12</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.692321" lon="37.156885">
-  <ele>163.068</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I13</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.81955" lon="37.10147">
-  <ele>142.9512</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I14</name>
-  <desc>02-ОКТ-09 12:45:40</desc>
-  <xdesc>02-ОКТ-09 12:45:40<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.837069" lon="37.065547">
-  <ele>136.8552</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I15</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.670594" lon="37.024907">
-  <ele>157.8864</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I16</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.84888" lon="36.99534">
-  <ele>141.1224</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I17A</name>
-  <desc>29-OCT-08 9:58:45</desc>
-  <xdesc>29-OCT-08 9:58:45<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.84902" lon="36.99491">
-  <ele>141.1224</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I17B</name>
-  <desc>29-OCT-08 9:57:58</desc>
-  <xdesc>29-OCT-08 9:57:58<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.878213" lon="37.00255">
-  <ele>188.0616</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I18</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.85803" lon="36.9912">
-  <ele>144.1704</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I19A</name>
-  <desc>25-AUG-08 14:59:56</desc>
-  <xdesc>25-AUG-08 14:59:56<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.85829" lon="36.98817">
-  <ele>144.1704</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I19B</name>
-  <desc>25-AUG-08 14:54:09</desc>
-  <xdesc>25-AUG-08 14:54:09<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.858" lon="36.98758">
-  <ele>142.0368</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I19C</name>
-  <desc>25-AUG-08 13:06:42</desc>
-  <xdesc>25-AUG-08 13:06:42<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.85795" lon="36.98568">
-  <ele>142.0368</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I19D</name>
-  <desc>25-AUG-08 13:00:05</desc>
-  <xdesc>25-AUG-08 13:00:05<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.85572" lon="36.97434">
-  <ele>138.9888</ele>
-  <time>2007-01-16T11:10:19.346Z</time>
-  <name>I20A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.85563" lon="36.97455">
-  <ele>139.9032</ele>
-  <time>2007-01-16T11:10:19.433Z</time>
-  <name>I20B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.85559" lon="36.97507">
-  <ele>139.2936</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I20C</name>
-  <desc>25-AUG-08 12:45:46</desc>
-  <xdesc>25-AUG-08 12:45:46<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.85588" lon="36.97868">
-  <ele>138.684</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I20D</name>
-  <desc>25-AUG-08 12:50:45</desc>
-  <xdesc>25-AUG-08 12:50:45<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.84434" lon="36.97176">
-  <ele>149.9616</ele>
-  <time>2007-01-16T11:10:19.053Z</time>
-  <name>I21A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.84338" lon="36.96813">
-  <ele>143.5608</ele>
-  <time>2007-01-16T11:10:18.966Z</time>
-  <name>I21B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.84282" lon="36.96741">
-  <ele>146.9136</ele>
-  <time>2007-01-16T11:10:19.156Z</time>
-  <name>I21C</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.84306" lon="36.96672">
-  <ele>149.0472</ele>
-  <time>2007-01-16T11:10:19.243Z</time>
-  <name>I21D</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.84235" lon="36.96203">
-  <ele>152.4</ele>
-  <time>2007-01-16T11:10:18.871Z</time>
-  <name>I22A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.84136" lon="36.96123">
-  <ele>153.3144</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I22B</name>
-  <desc>29-OCT-08 14:04:54</desc>
-  <xdesc>29-OCT-08 14:04:54<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.86866" lon="36.96215">
-  <ele>172.8216</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I23A</name>
-  <desc>25-AUG-08 11:43:08</desc>
-  <xdesc>25-AUG-08 11:43:08<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.86859" lon="36.96193">
-  <ele>177.3936</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I23B</name>
-  <desc>25-AUG-08 11:41:55</desc>
-  <xdesc>25-AUG-08 11:41:55<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.887471" lon="36.854933">
-  <ele>149.0472</ele>
-  <time>2006-04-03T10:34:05.427Z</time>
-  <name>I24A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.887511" lon="36.853092">
-  <ele>148.1328</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I24B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.88838" lon="36.803089">
-  <ele>167.9448</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I25A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.894405" lon="36.805914">
-  <ele>148.1328</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I25M</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.89112" lon="36.77858">
-  <ele>165.8112</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I26</name>
-  <desc>31-JUL-08 9:44:17</desc>
-  <xdesc>31-JUL-08 9:44:17<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.87588" lon="36.77332">
-  <ele>177.0888</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I27A</name>
-  <desc>31-JUL-08 10:47:30</desc>
-  <xdesc>31-JUL-08 10:47:30<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.87725" lon="36.77117">
-  <ele>176.784</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I27B</name>
-  <desc>31-JUL-08 10:38:09</desc>
-  <xdesc>31-JUL-08 10:38:09<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.88884" lon="36.76531">
-  <ele>156.972</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I28</name>
-  <desc>31-JUL-08 13:02:42</desc>
-  <xdesc>31-JUL-08 13:02:42<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.876133" lon="36.722933">
-  <ele>181.9656</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I29A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.8757" lon="36.72521">
-  <ele>185.3184</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I29B</name>
-  <desc>31-JUL-08 11:50:18</desc>
-  <xdesc>31-JUL-08 11:50:18<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.694731" lon="36.924563">
-  <ele>171.9072</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I30F</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.694784" lon="36.9192">
-  <ele>170.0784</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I30L</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.695452" lon="36.918353">
-  <ele>167.0304</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I30S</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.706152" lon="36.892566">
-  <ele>159.1056</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I31</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.733401" lon="36.898373">
-  <ele>142.0368</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I32N</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.732177" lon="36.885129">
-  <ele>138.0744</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I32V</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.6974" lon="36.85769">
-  <ele>160.02</ele>
-  <time>2006-10-19T19:27:30.856Z</time>
-  <name>I33</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.72722" lon="36.81426">
-  <ele>142.6464</ele>
-  <time>2006-07-20T22:19:44.806Z</time>
-  <name>I34</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.793101" lon="36.78787">
-  <ele>168.8592</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I35</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.67969" lon="36.7842">
-  <ele>158.1912</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I36</name>
-  <desc>04-MAY-08 11:57:05</desc>
-  <xdesc>04-MAY-08 11:57:05<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.65551" lon="36.76889">
-  <ele>190.1952</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I37</name>
-  <desc>04-MAY-08 13:14:56</desc>
-  <xdesc>04-MAY-08 13:14:56<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.70731" lon="36.75844">
-  <ele>140.208</ele>
-  <time>2006-10-19T19:27:30.761Z</time>
-  <name>I38</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.88925" lon="36.695915">
-  <ele>167.9448</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I39</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.910588" lon="36.69113">
-  <ele>196.9008</ele>
-  <time>2006-04-03T10:34:05.436Z</time>
-  <name>I40</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.880319" lon="36.675794">
-  <ele>175.8696</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I41</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.872195" lon="36.637017">
-  <ele>167.9448</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I42A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.869213" lon="36.635153">
-  <ele>168.8592</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I42B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.826981" lon="36.631189">
-  <ele>196.9008</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I43</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.830694" lon="36.622918">
-  <ele>188.0616</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I44</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.74795" lon="36.63317">
-  <ele>185.0136</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I45</name>
-  <desc>07-МАЙ-13 11:01:26</desc>
-  <xdesc>07-МАЙ-13 11:01:26<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.84922" lon="36.58308">
-  <ele>196.9008</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I46</name>
-  <desc>18-OCT-07 18:07:39</desc>
-  <xdesc>18-OCT-07 18:07:39<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.90783" lon="36.58184">
-  <ele>198.12</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I47</name>
-  <desc>18-OCT-07 10:28:03</desc>
-  <xdesc>18-OCT-07 10:28:03<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.91462" lon="36.57171">
-  <ele>202.0824</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I48</name>
-  <desc>23-НОЯ-12 14:07:24</desc>
-  <xdesc>23-НОЯ-12 14:07:24<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.72412" lon="36.60059">
-  <ele>187.452</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I49</name>
-  <desc>07-МАЙ-13 10:31:56</desc>
-  <xdesc>07-МАЙ-13 10:31:56<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.61324" lon="36.59769">
-  <ele>142.0368</ele>
-  <time>2006-11-10T10:12:57.36Z</time>
-  <name>I50A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.61115" lon="36.59414">
-  <ele>142.0368</ele>
-  <time>2006-11-10T10:12:57.456Z</time>
-  <name>I50B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.61014" lon="36.59228">
-  <ele>141.732</ele>
-  <time>2006-11-10T10:12:57.542Z</time>
-  <name>I50C</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60999" lon="36.59207">
-  <ele>141.732</ele>
-  <time>2006-11-10T10:12:57.637Z</time>
-  <name>I50D</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.61943" lon="36.58005">
-  <ele>143.8656</ele>
-  <time>2006-11-10T10:12:58.086Z</time>
-  <name>I51</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.62399" lon="36.57181">
-  <ele>140.8176</ele>
-  <time>2006-11-10T10:12:57.723Z</time>
-  <name>I52A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.62415" lon="36.57161">
-  <ele>140.8176</ele>
-  <time>2006-11-10T10:12:57.818Z</time>
-  <name>I52B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.63325" lon="36.56373">
-  <ele>141.4272</ele>
-  <time>2006-11-10T10:12:57.905Z</time>
-  <name>I53</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60247" lon="36.55515">
-  <ele>143.5608</ele>
-  <time>2006-11-10T10:12:56.324Z</time>
-  <name>I54A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.6024" lon="36.559">
-  <ele>143.256</ele>
-  <time>2006-11-10T10:12:56.41Z</time>
-  <name>I54B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60246" lon="36.56097">
-  <ele>143.256</ele>
-  <time>2006-11-10T10:12:56.514Z</time>
-  <name>I54C</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60263" lon="36.56265">
-  <ele>142.9512</ele>
-  <time>2006-11-10T10:12:56.6Z</time>
-  <name>I54D</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60269" lon="36.56301">
-  <ele>142.9512</ele>
-  <time>2006-11-10T10:12:56.704Z</time>
-  <name>I54E</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60303" lon="36.56632">
-  <ele>142.3416</ele>
-  <time>2006-11-10T10:12:56.79Z</time>
-  <name>I54F</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60303" lon="36.56642">
-  <ele>142.3416</ele>
-  <time>2006-11-10T10:12:56.894Z</time>
-  <name>I54G</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60297" lon="36.56698">
-  <ele>142.3416</ele>
-  <time>2006-11-10T10:12:56.98Z</time>
-  <name>I54H</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60304" lon="36.56725">
-  <ele>142.0368</ele>
-  <time>2006-11-10T10:12:57.084Z</time>
-  <name>I54I</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60349" lon="36.572">
-  <ele>141.4272</ele>
-  <time>2006-11-10T10:12:57.17Z</time>
-  <name>I54J</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.60444" lon="36.57745">
-  <ele>142.9512</ele>
-  <time>2006-11-10T10:12:57.274Z</time>
-  <name>I54K</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.64101" lon="36.53819">
-  <ele>160.02</ele>
-  <time>2006-11-10T10:12:57.991Z</time>
-  <name>I55</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.9137" lon="36.50763">
-  <ele>212.7504</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I56</name>
-  <desc>28-ФЕВ-13 14:36:28</desc>
-  <xdesc>28-ФЕВ-13 14:36:28<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.87144" lon="36.45323">
-  <ele>197.2056</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I57</name>
-  <desc>28-ФЕВ-13 12:26:12</desc>
-  <xdesc>28-ФЕВ-13 12:26:12<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.61444" lon="36.48764">
-  <ele>139.9032</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I58B</name>
-  <desc>04-ОКТ-14 16:19:30</desc>
-  <xdesc>04-ОКТ-14 16:19:30<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.61343" lon="36.48608">
-  <ele>140.208</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I58C</name>
-  <desc>04-ОКТ-14 16:22:34</desc>
-  <xdesc>04-ОКТ-14 16:22:34<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.61306" lon="36.48555">
-  <ele>140.8176</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I58D</name>
-  <desc>04-ОКТ-14 16:24:01</desc>
-  <xdesc>04-ОКТ-14 16:24:01<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.74144" lon="36.47333">
-  <ele>206.3496</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I59</name>
-  <desc>12-ДЕК-12 13:21:02</desc>
-  <xdesc>12-ДЕК-12 13:21:02<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.707122" lon="36.419632">
-  <ele>196.9008</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I60</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.89668" lon="36.41278">
-  <ele>201.4728</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I61</name>
-  <desc>29-ИЮЛ-09 12:16:45</desc>
-  <xdesc>29-ИЮЛ-09 12:16:45<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.92724" lon="36.40536">
-  <ele>203.6064</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I62A</name>
-  <desc>29-ИЮЛ-09 10:46:12</desc>
-  <xdesc>29-ИЮЛ-09 10:46:12<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.9265" lon="36.40421">
-  <ele>204.8256</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I62B</name>
-  <desc>26-МАЙ-14 14:44:07</desc>
-  <xdesc>26-МАЙ-14 14:44:07<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.719887" lon="36.407551">
-  <ele>0</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I63</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.6241" lon="36.406497">
-  <ele>184.0992</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I64I</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.623942" lon="36.408365">
-  <ele>171.9072</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I64N</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.625228" lon="36.40204">
-  <ele>148.1328</ele>
-  <time>2006-04-03T10:34:05.445Z</time>
-  <name>I64V</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.83866" lon="36.35853">
-  <ele>185.928</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I65</name>
-  <desc>07-МАР-13 13:54:24</desc>
-  <xdesc>07-МАР-13 13:54:24<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.625795" lon="36.287153">
-  <ele>149.0472</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I66A</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.626395" lon="36.289526">
-  <ele>150.876</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I66B</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.752564" lon="36.299865">
-  <ele>0</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I67</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.752689" lon="36.257683">
-  <ele>185.928</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I68</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.659442" lon="36.242275">
-  <ele>158.1912</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I69N</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.664678" lon="36.231383">
-  <ele>159.1056</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I69V</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.729962" lon="36.218433">
-  <ele>195.9864</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I70</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.670419" lon="36.209529">
-  <ele>160.02</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I71</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.627878" lon="36.22048">
-  <ele>155.1432</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I72</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.628168" lon="36.213074">
-  <ele>155.1432</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I72V</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.61134" lon="36.166182">
-  <ele>153.924</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I73</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.692026" lon="36.172848">
-  <ele>160.02</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I74</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.60293" lon="36.1538">
-  <ele>154.5336</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I75A</name>
-  <desc>27-OCT-07 14:13:56</desc>
-  <xdesc>27-OCT-07 14:13:56<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.60514" lon="36.15523">
-  <ele>154.8384</ele>
-  <time>1900-03--60T00:00:00Z</time>
-  <name>I75B</name>
-  <desc>27-OCT-07 14:18:26</desc>
-  <xdesc>27-OCT-07 14:18:26<br/><b>Далее:</b> </xdesc>
-  <sym>Ozi 141</sym>
- </wpt>
- <wpt lat="55.59977" lon="36.12858">
-  <ele>156.0576</ele>
-  <time>2007-07-24T19:45:58.608Z</time>
-  <name>I76</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Flag</sym>
- </wpt>
- <wpt lat="55.590014" lon="36.102648">
-  <ele>156.972</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I77</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.550202" lon="36.057297">
-  <ele>159.1056</ele>
-  <time>2006-04-03T10:34:05.462Z</time>
-  <name>I78</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.554147" lon="36.026056">
-  <ele>171.9072</ele>
-  <time>2006-04-03T10:34:05.471Z</time>
-  <name>I79</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.610235" lon="36.063849">
-  <ele>163.068</ele>
-  <time>2006-04-03T10:34:05.471Z</time>
-  <name>I80</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.6377" lon="35.908974">
-  <ele>171.9072</ele>
-  <time>2006-04-03T10:34:05.471Z</time>
-  <name>I81</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <wpt lat="55.93647" lon="35.650547">
-  <ele>0</ele>
-  <time>2006-04-16T08:30:24.272Z</time>
-  <name>I82</name>
-  <desc></desc>
-  <xdesc><br/><b>Далее:</b> </xdesc>
-  <sym>Airport</sym>
- </wpt>
- <xsct>
-  <name>1</name>
-  <desc></desc>
-  <xwptref name="I01"/>
-  <xwptref name="I02"/>
-  <xwptref name="I03A"/>
-  <xwptref name="I03B"/>
-  <xwptref name="I04"/>
-  <xwptref name="I05"/>
-  <xwptref name="I06"/>
-  <xwptref name="I07A"/>
-  <xwptref name="I07B"/>
-  <xwptref name="I08"/>
-  <xwptref name="I09A"/>
-  <xwptref name="I09B"/>
-  <xwptref name="I10"/>
-  <xwptref name="I11N"/>
-  <xwptref name="I12"/>
-  <xwptref name="I13"/>
-  <xwptref name="I14"/>
-  <xwptref name="I15"/>
-  <xwptref name="I16"/>
-  <xwptref name="I17A"/>
-  <xwptref name="I17B"/>
-  <xwptref name="I18"/>
-  <xwptref name="I19A"/>
-  <xwptref name="I19B"/>
-  <xwptref name="I19C"/>
-  <xwptref name="I19D"/>
-  <xwptref name="I20A"/>
-  <xwptref name="I20B"/>
-  <xwptref name="I20C"/>
-  <xwptref name="I20D"/>
-  <xwptref name="I21A"/>
-  <xwptref name="I21B"/>
-  <xwptref name="I21C"/>
-  <xwptref name="I21D"/>
-  <xwptref name="I22A"/>
-  <xwptref name="I22B"/>
-  <xwptref name="I23A"/>
-  <xwptref name="I23B"/>
-  <xwptref name="I24A"/>
-  <xwptref name="I24B"/>
-  <xwptref name="I25A"/>
-  <xwptref name="I25M"/>
-  <xwptref name="I26"/>
-  <xwptref name="I27A"/>
-  <xwptref name="I27B"/>
-  <xwptref name="I28"/>
-  <xwptref name="I29A"/>
-  <xwptref name="I29B"/>
-  <xwptref name="I30F"/>
-  <xwptref name="I30L"/>
-  <xwptref name="I30S"/>
-  <xwptref name="I31"/>
-  <xwptref name="I32N"/>
-  <xwptref name="I32V"/>
-  <xwptref name="I33"/>
-  <xwptref name="I34"/>
-  <xwptref name="I35"/>
-  <xwptref name="I36"/>
-  <xwptref name="I37"/>
-  <xwptref name="I38"/>
-  <xwptref name="I39"/>
-  <xwptref name="I40"/>
-  <xwptref name="I41"/>
-  <xwptref name="I42A"/>
-  <xwptref name="I42B"/>
-  <xwptref name="I43"/>
-  <xwptref name="I44"/>
-  <xwptref name="I45"/>
-  <xwptref name="I46"/>
-  <xwptref name="I47"/>
-  <xwptref name="I48"/>
-  <xwptref name="I49"/>
-  <xwptref name="I50A"/>
-  <xwptref name="I50B"/>
-  <xwptref name="I50C"/>
-  <xwptref name="I50D"/>
-  <xwptref name="I51"/>
-  <xwptref name="I52A"/>
-  <xwptref name="I52B"/>
-  <xwptref name="I53"/>
-  <xwptref name="I54A"/>
-  <xwptref name="I54B"/>
-  <xwptref name="I54C"/>
-  <xwptref name="I54D"/>
-  <xwptref name="I54E"/>
-  <xwptref name="I54F"/>
-  <xwptref name="I54G"/>
-  <xwptref name="I54H"/>
-  <xwptref name="I54I"/>
-  <xwptref name="I54J"/>
-  <xwptref name="I54K"/>
-  <xwptref name="I55"/>
-  <xwptref name="I56"/>
-  <xwptref name="I57"/>
-  <xwptref name="I58B"/>
-  <xwptref name="I58C"/>
-  <xwptref name="I58D"/>
-  <xwptref name="I59"/>
-  <xwptref name="I60"/>
-  <xwptref name="I61"/>
-  <xwptref name="I62A"/>
-  <xwptref name="I62B"/>
-  <xwptref name="I63"/>
-  <xwptref name="I64I"/>
-  <xwptref name="I64N"/>
-  <xwptref name="I64V"/>
-  <xwptref name="I65"/>
-  <xwptref name="I66A"/>
-  <xwptref name="I66B"/>
-  <xwptref name="I67"/>
-  <xwptref name="I68"/>
-  <xwptref name="I69N"/>
-  <xwptref name="I69V"/>
-  <xwptref name="I70"/>
-  <xwptref name="I71"/>
-  <xwptref name="I72"/>
-  <xwptref name="I72V"/>
-  <xwptref name="I73"/>
-  <xwptref name="I74"/>
-  <xwptref name="I75A"/>
-  <xwptref name="I75B"/>
-  <xwptref name="I76"/>
-  <xwptref name="I77"/>
-  <xwptref name="I78"/>
-  <xwptref name="I79"/>
-  <xwptref name="I80"/>
-  <xwptref name="I81"/>
-  <xwptref name="I82"/>
- </xsct>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+ <time>2021-04-20T14:06:17Z</time>
+ <bounds minlat="55.550202" minlon="35.650547" maxlat="55.936470" maxlon="37.319223"/>
+</metadata>
+<wpt lat="55.7303500" lon="37.3169400">
+ <ele>173.735992</ele>
+ <time>2021-04-20T14:05:19.894Z</time>
+ <name>I01</name>
+ <cmt>19-РђРџР -10 16:08:18</cmt>
+ <desc>19-РђРџР -10 16:08:18</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7426030" lon="37.3192230">
+ <ele>139.903198</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I02</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7049600" lon="37.3000000">
+ <ele>192.938400</ele>
+ <time>2021-04-20T14:05:19.906Z</time>
+ <name>I03A</name>
+ <cmt>29-JAN-08 9:00:19</cmt>
+ <desc>29-JAN-08 9:00:19</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7047800" lon="37.3003400">
+ <ele>193.243195</ele>
+ <time>2021-04-20T14:05:19.914Z</time>
+ <name>I03B</name>
+ <cmt>29-JAN-08 9:05:21</cmt>
+ <desc>29-JAN-08 9:05:21</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7927760" lon="37.2486270">
+ <ele>156.972000</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I04</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7019000" lon="37.2601100">
+ <ele>175.259995</ele>
+ <time>2021-04-20T14:05:19.928Z</time>
+ <name>I05</name>
+ <cmt>29-JAN-08 10:57:35</cmt>
+ <desc>29-JAN-08 10:57:35</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6965600" lon="37.2539600">
+ <ele>174.955200</ele>
+ <time>2021-04-20T14:05:19.936Z</time>
+ <name>I06</name>
+ <cmt>29-JAN-08 10:34:27</cmt>
+ <desc>29-JAN-08 10:34:27</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8147790" lon="37.2299780">
+ <ele>170.078400</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I07A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8115590" lon="37.2321980">
+ <ele>173.126404</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I07B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7915900" lon="37.2088000">
+ <ele>162.153595</ele>
+ <time>2021-04-20T14:05:19.962Z</time>
+ <name>I08</name>
+ <cmt>05-РђРџР -09 10:45:20</cmt>
+ <desc>05-РђРџР -09 10:45:20</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7006270" lon="37.1910930">
+ <ele>149.047195</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I09A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7011970" lon="37.1913690">
+ <ele>149.047195</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I09B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7207560" lon="37.1920890">
+ <ele>135.940796</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I10</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7049800" lon="37.1713870">
+ <ele>142.951202</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I11N</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6954590" lon="37.1636560">
+ <ele>157.886398</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I12</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6923210" lon="37.1568850">
+ <ele>163.067993</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I13</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8195500" lon="37.1014700">
+ <ele>142.951202</ele>
+ <time>2021-04-20T14:05:20.057Z</time>
+ <name>I14</name>
+ <cmt>02-РћРљРў-09 12:45:40</cmt>
+ <desc>02-РћРљРў-09 12:45:40</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8370690" lon="37.0655470">
+ <ele>136.855194</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I15</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6705940" lon="37.0249070">
+ <ele>157.886398</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I16</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8488800" lon="36.9953400">
+ <ele>141.122406</ele>
+ <time>2021-04-20T14:05:20.104Z</time>
+ <name>I17A</name>
+ <cmt>29-OCT-08 9:58:45</cmt>
+ <desc>29-OCT-08 9:58:45</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8490200" lon="36.9949100">
+ <ele>141.122406</ele>
+ <time>2021-04-20T14:05:20.120Z</time>
+ <name>I17B</name>
+ <cmt>29-OCT-08 9:57:58</cmt>
+ <desc>29-OCT-08 9:57:58</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8782130" lon="37.0025500">
+ <ele>188.061600</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I18</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8580300" lon="36.9912000">
+ <ele>144.170395</ele>
+ <time>2021-04-20T14:05:20.156Z</time>
+ <name>I19A</name>
+ <cmt>25-AUG-08 14:59:56</cmt>
+ <desc>25-AUG-08 14:59:56</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8582900" lon="36.9881700">
+ <ele>144.170395</ele>
+ <time>2021-04-20T14:05:20.176Z</time>
+ <name>I19B</name>
+ <cmt>25-AUG-08 14:54:09</cmt>
+ <desc>25-AUG-08 14:54:09</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8580000" lon="36.9875800">
+ <ele>142.036804</ele>
+ <time>2021-04-20T14:05:20.196Z</time>
+ <name>I19C</name>
+ <cmt>25-AUG-08 13:06:42</cmt>
+ <desc>25-AUG-08 13:06:42</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8579500" lon="36.9856800">
+ <ele>142.036804</ele>
+ <time>2021-04-20T14:05:20.217Z</time>
+ <name>I19D</name>
+ <cmt>25-AUG-08 13:00:05</cmt>
+ <desc>25-AUG-08 13:00:05</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8557200" lon="36.9743400">
+ <ele>138.988800</ele>
+ <time>2007-01-16T11:10:19.346Z</time>
+ <name>I20A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8556300" lon="36.9745500">
+ <ele>139.903198</ele>
+ <time>2007-01-16T11:10:19.433Z</time>
+ <name>I20B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8555900" lon="36.9750700">
+ <ele>139.293594</ele>
+ <time>2021-04-20T14:05:20.285Z</time>
+ <name>I20C</name>
+ <cmt>25-AUG-08 12:45:46</cmt>
+ <desc>25-AUG-08 12:45:46</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8558800" lon="36.9786800">
+ <ele>138.684006</ele>
+ <time>2021-04-20T14:05:20.309Z</time>
+ <name>I20D</name>
+ <cmt>25-AUG-08 12:50:45</cmt>
+ <desc>25-AUG-08 12:50:45</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8443400" lon="36.9717600">
+ <ele>149.961594</ele>
+ <time>2007-01-16T11:10:19.053Z</time>
+ <name>I21A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8433800" lon="36.9681300">
+ <ele>143.560806</ele>
+ <time>2007-01-16T11:10:18.966Z</time>
+ <name>I21B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8428200" lon="36.9674100">
+ <ele>146.913605</ele>
+ <time>2007-01-16T11:10:19.156Z</time>
+ <name>I21C</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8430600" lon="36.9667200">
+ <ele>149.047195</ele>
+ <time>2007-01-16T11:10:19.243Z</time>
+ <name>I21D</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8423500" lon="36.9620300">
+ <ele>152.399994</ele>
+ <time>2007-01-16T11:10:18.871Z</time>
+ <name>I22A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8413600" lon="36.9612300">
+ <ele>153.314407</ele>
+ <time>2021-04-20T14:05:20.466Z</time>
+ <name>I22B</name>
+ <cmt>29-OCT-08 14:04:54</cmt>
+ <desc>29-OCT-08 14:04:54</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8686600" lon="36.9621500">
+ <ele>172.821594</ele>
+ <time>2021-04-20T14:05:20.498Z</time>
+ <name>I23A</name>
+ <cmt>25-AUG-08 11:43:08</cmt>
+ <desc>25-AUG-08 11:43:08</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8685900" lon="36.9619300">
+ <ele>177.393600</ele>
+ <time>2021-04-20T14:05:20.527Z</time>
+ <name>I23B</name>
+ <cmt>25-AUG-08 11:41:55</cmt>
+ <desc>25-AUG-08 11:41:55</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8874710" lon="36.8549330">
+ <ele>149.047195</ele>
+ <time>2006-04-03T10:34:05.427Z</time>
+ <name>I24A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8875110" lon="36.8530920">
+ <ele>148.132797</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I24B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8883800" lon="36.8030890">
+ <ele>167.944794</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I25A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8944050" lon="36.8059140">
+ <ele>148.132797</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I25M</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8911200" lon="36.7785800">
+ <ele>165.811203</ele>
+ <time>2021-04-20T14:05:20.685Z</time>
+ <name>I26</name>
+ <cmt>31-JUL-08 9:44:17</cmt>
+ <desc>31-JUL-08 9:44:17</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8758800" lon="36.7733200">
+ <ele>177.088806</ele>
+ <time>2021-04-20T14:05:20.722Z</time>
+ <name>I27A</name>
+ <cmt>31-JUL-08 10:47:30</cmt>
+ <desc>31-JUL-08 10:47:30</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8772500" lon="36.7711700">
+ <ele>176.783997</ele>
+ <time>2021-04-20T14:05:20.757Z</time>
+ <name>I27B</name>
+ <cmt>31-JUL-08 10:38:09</cmt>
+ <desc>31-JUL-08 10:38:09</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8888400" lon="36.7653100">
+ <ele>156.972000</ele>
+ <time>2021-04-20T14:05:20.790Z</time>
+ <name>I28</name>
+ <cmt>31-JUL-08 13:02:42</cmt>
+ <desc>31-JUL-08 13:02:42</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8761330" lon="36.7229330">
+ <ele>181.965607</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I29A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8757000" lon="36.7252100">
+ <ele>185.318405</ele>
+ <time>2021-04-20T14:05:20.857Z</time>
+ <name>I29B</name>
+ <cmt>31-JUL-08 11:50:18</cmt>
+ <desc>31-JUL-08 11:50:18</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6947310" lon="36.9245630">
+ <ele>171.907196</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I30F</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6947840" lon="36.9192000">
+ <ele>170.078400</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I30L</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6954520" lon="36.9183530">
+ <ele>167.030396</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I30S</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7061520" lon="36.8925660">
+ <ele>159.105606</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I31</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7334010" lon="36.8983730">
+ <ele>142.036804</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I32N</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7321770" lon="36.8851290">
+ <ele>138.074402</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I32V</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6974000" lon="36.8576900">
+ <ele>160.020004</ele>
+ <time>2006-10-19T19:27:30.856Z</time>
+ <name>I33</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7272200" lon="36.8142600">
+ <ele>142.646393</ele>
+ <time>2006-07-20T22:19:44.806Z</time>
+ <name>I34</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7931010" lon="36.7878700">
+ <ele>168.859207</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I35</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6796900" lon="36.7842000">
+ <ele>158.191193</ele>
+ <time>2021-04-20T14:05:21.211Z</time>
+ <name>I36</name>
+ <cmt>04-MAY-08 11:57:05</cmt>
+ <desc>04-MAY-08 11:57:05</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6555100" lon="36.7688900">
+ <ele>190.195206</ele>
+ <time>2021-04-20T14:05:21.247Z</time>
+ <name>I37</name>
+ <cmt>04-MAY-08 13:14:56</cmt>
+ <desc>04-MAY-08 13:14:56</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7073100" lon="36.7584400">
+ <ele>140.207993</ele>
+ <time>2006-10-19T19:27:30.761Z</time>
+ <name>I38</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8892500" lon="36.6959150">
+ <ele>167.944794</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I39</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9105880" lon="36.6911300">
+ <ele>196.900803</ele>
+ <time>2006-04-03T10:34:05.436Z</time>
+ <name>I40</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8803190" lon="36.6757940">
+ <ele>175.869598</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I41</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8721950" lon="36.6370170">
+ <ele>167.944794</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I42A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8692130" lon="36.6351530">
+ <ele>168.859207</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I42B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8269810" lon="36.6311890">
+ <ele>196.900803</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I43</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8306940" lon="36.6229180">
+ <ele>188.061600</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I44</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7479500" lon="36.6331700">
+ <ele>185.013596</ele>
+ <time>2021-04-20T14:05:21.568Z</time>
+ <name>I45</name>
+ <cmt>07-РњРђР™-13 11:01:26</cmt>
+ <desc>07-РњРђР™-13 11:01:26</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8492200" lon="36.5830800">
+ <ele>196.900803</ele>
+ <time>2021-04-20T14:05:21.602Z</time>
+ <name>I46</name>
+ <cmt>18-OCT-07 18:07:39</cmt>
+ <desc>18-OCT-07 18:07:39</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9078300" lon="36.5818400">
+ <ele>198.119995</ele>
+ <time>2021-04-20T14:05:21.637Z</time>
+ <name>I47</name>
+ <cmt>18-OCT-07 10:28:03</cmt>
+ <desc>18-OCT-07 10:28:03</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9146200" lon="36.5717100">
+ <ele>202.082397</ele>
+ <time>2021-04-20T14:05:21.676Z</time>
+ <name>I48</name>
+ <cmt>23-РќРћРЇ-12 14:07:24</cmt>
+ <desc>23-РќРћРЇ-12 14:07:24</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7241200" lon="36.6005900">
+ <ele>187.451996</ele>
+ <time>2021-04-20T14:05:21.713Z</time>
+ <name>I49</name>
+ <cmt>07-РњРђР™-13 10:31:56</cmt>
+ <desc>07-РњРђР™-13 10:31:56</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6132400" lon="36.5976900">
+ <ele>142.036804</ele>
+ <time>2006-11-10T10:12:57.036Z</time>
+ <name>I50A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6111500" lon="36.5941400">
+ <ele>142.036804</ele>
+ <time>2006-11-10T10:12:57.456Z</time>
+ <name>I50B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6101400" lon="36.5922800">
+ <ele>141.731995</ele>
+ <time>2006-11-10T10:12:57.542Z</time>
+ <name>I50C</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6099900" lon="36.5920700">
+ <ele>141.731995</ele>
+ <time>2006-11-10T10:12:57.637Z</time>
+ <name>I50D</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6194300" lon="36.5800500">
+ <ele>143.865601</ele>
+ <time>2006-11-10T10:12:58.086Z</time>
+ <name>I51</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6239900" lon="36.5718100">
+ <ele>140.817596</ele>
+ <time>2006-11-10T10:12:57.723Z</time>
+ <name>I52A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6241500" lon="36.5716100">
+ <ele>140.817596</ele>
+ <time>2006-11-10T10:12:57.818Z</time>
+ <name>I52B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6332500" lon="36.5637300">
+ <ele>141.427200</ele>
+ <time>2006-11-10T10:12:57.905Z</time>
+ <name>I53</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6024700" lon="36.5551500">
+ <ele>143.560806</ele>
+ <time>2006-11-10T10:12:56.324Z</time>
+ <name>I54A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6024000" lon="36.5590000">
+ <ele>143.255997</ele>
+ <time>2006-11-10T10:12:56.041Z</time>
+ <name>I54B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6024600" lon="36.5609700">
+ <ele>143.255997</ele>
+ <time>2006-11-10T10:12:56.514Z</time>
+ <name>I54C</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6026300" lon="36.5626500">
+ <ele>142.951202</ele>
+ <time>2006-11-10T10:12:56.006Z</time>
+ <name>I54D</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6026900" lon="36.5630100">
+ <ele>142.951202</ele>
+ <time>2006-11-10T10:12:56.704Z</time>
+ <name>I54E</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6030300" lon="36.5663200">
+ <ele>142.341599</ele>
+ <time>2006-11-10T10:12:56.079Z</time>
+ <name>I54F</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6030300" lon="36.5664200">
+ <ele>142.341599</ele>
+ <time>2006-11-10T10:12:56.894Z</time>
+ <name>I54G</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6029700" lon="36.5669800">
+ <ele>142.341599</ele>
+ <time>2006-11-10T10:12:56.098Z</time>
+ <name>I54H</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6030400" lon="36.5672500">
+ <ele>142.036804</ele>
+ <time>2006-11-10T10:12:57.084Z</time>
+ <name>I54I</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6034900" lon="36.5720000">
+ <ele>141.427200</ele>
+ <time>2006-11-10T10:12:57.017Z</time>
+ <name>I54J</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6044400" lon="36.5774500">
+ <ele>142.951202</ele>
+ <time>2006-11-10T10:12:57.274Z</time>
+ <name>I54K</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6410100" lon="36.5381900">
+ <ele>160.020004</ele>
+ <time>2006-11-10T10:12:57.991Z</time>
+ <name>I55</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9137000" lon="36.5076300">
+ <ele>212.750397</ele>
+ <time>2021-04-20T14:05:24.598Z</time>
+ <name>I56</name>
+ <cmt>28-Р¤Р•Р’-13 14:36:28</cmt>
+ <desc>28-Р¤Р•Р’-13 14:36:28</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8714400" lon="36.4532300">
+ <ele>197.205597</ele>
+ <time>2021-04-20T14:05:24.633Z</time>
+ <name>I57</name>
+ <cmt>28-Р¤Р•Р’-13 12:26:12</cmt>
+ <desc>28-Р¤Р•Р’-13 12:26:12</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6144400" lon="36.4876400">
+ <ele>139.903198</ele>
+ <time>2021-04-20T14:05:24.667Z</time>
+ <name>I58B</name>
+ <cmt>04-РћРљРў-14 16:19:30</cmt>
+ <desc>04-РћРљРў-14 16:19:30</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6134300" lon="36.4860800">
+ <ele>140.207993</ele>
+ <time>2021-04-20T14:05:24.703Z</time>
+ <name>I58C</name>
+ <cmt>04-РћРљРў-14 16:22:34</cmt>
+ <desc>04-РћРљРў-14 16:22:34</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6130600" lon="36.4855500">
+ <ele>140.817596</ele>
+ <time>2021-04-20T14:05:24.736Z</time>
+ <name>I58D</name>
+ <cmt>04-РћРљРў-14 16:24:01</cmt>
+ <desc>04-РћРљРў-14 16:24:01</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7414400" lon="36.4733300">
+ <ele>206.349594</ele>
+ <time>2021-04-20T14:05:24.770Z</time>
+ <name>I59</name>
+ <cmt>12-Р”Р•Рљ-12 13:21:02</cmt>
+ <desc>12-Р”Р•Рљ-12 13:21:02</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7071220" lon="36.4196320">
+ <ele>196.900803</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I60</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8966800" lon="36.4127800">
+ <ele>201.472794</ele>
+ <time>2021-04-20T14:05:24.837Z</time>
+ <name>I61</name>
+ <cmt>29-РР®Р›-09 12:16:45</cmt>
+ <desc>29-РР®Р›-09 12:16:45</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9272400" lon="36.4053600">
+ <ele>203.606400</ele>
+ <time>2021-04-20T14:05:24.871Z</time>
+ <name>I62A</name>
+ <cmt>29-РР®Р›-09 10:46:12</cmt>
+ <desc>29-РР®Р›-09 10:46:12</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9265000" lon="36.4042100">
+ <ele>204.825607</ele>
+ <time>2021-04-20T14:05:24.904Z</time>
+ <name>I62B</name>
+ <cmt>26-РњРђР™-14 14:44:07</cmt>
+ <desc>26-РњРђР™-14 14:44:07</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7198870" lon="36.4075510">
+ <ele>0.000000</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I63</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6241000" lon="36.4064970">
+ <ele>184.099197</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I64I</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6239420" lon="36.4083650">
+ <ele>171.907196</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I64N</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6252280" lon="36.4020400">
+ <ele>148.132797</ele>
+ <time>2006-04-03T10:34:05.445Z</time>
+ <name>I64V</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.8386600" lon="36.3585300">
+ <ele>185.927994</ele>
+ <time>2021-04-20T14:05:25.077Z</time>
+ <name>I65</name>
+ <cmt>07-РњРђР -13 13:54:24</cmt>
+ <desc>07-РњРђР -13 13:54:24</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6257950" lon="36.2871530">
+ <ele>149.047195</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I66A</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6263950" lon="36.2895260">
+ <ele>150.876007</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I66B</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7525640" lon="36.2998650">
+ <ele>0.000000</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I67</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7526890" lon="36.2576830">
+ <ele>185.927994</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I68</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6594420" lon="36.2422750">
+ <ele>158.191193</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I69N</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6646780" lon="36.2313830">
+ <ele>159.105606</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I69V</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.7299620" lon="36.2184330">
+ <ele>195.986404</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I70</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6704190" lon="36.2095290">
+ <ele>160.020004</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I71</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6278780" lon="36.2204800">
+ <ele>155.143204</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I72</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6281680" lon="36.2130740">
+ <ele>155.143204</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I72V</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6113400" lon="36.1661820">
+ <ele>153.923996</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I73</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6920260" lon="36.1728480">
+ <ele>160.020004</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I74</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6029300" lon="36.1538000">
+ <ele>154.533600</ele>
+ <time>2021-04-20T14:05:25.514Z</time>
+ <name>I75A</name>
+ <cmt>27-OCT-07 14:13:56</cmt>
+ <desc>27-OCT-07 14:13:56</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6051400" lon="36.1552300">
+ <ele>154.838394</ele>
+ <time>2021-04-20T14:05:25.549Z</time>
+ <name>I75B</name>
+ <cmt>27-OCT-07 14:18:26</cmt>
+ <desc>27-OCT-07 14:18:26</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.5997700" lon="36.1285800">
+ <ele>156.057602</ele>
+ <time>2007-07-24T19:45:58.608Z</time>
+ <name>I76</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.5900140" lon="36.1026480">
+ <ele>156.972000</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I77</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.5502020" lon="36.0572970">
+ <ele>159.105606</ele>
+ <time>2006-04-03T10:34:05.462Z</time>
+ <name>I78</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.5541470" lon="36.0260560">
+ <ele>171.907196</ele>
+ <time>2006-04-03T10:34:05.471Z</time>
+ <name>I79</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6102350" lon="36.0638490">
+ <ele>163.067993</ele>
+ <time>2006-04-03T10:34:05.471Z</time>
+ <name>I80</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.6377000" lon="35.9089740">
+ <ele>171.907196</ele>
+ <time>2006-04-03T10:34:05.471Z</time>
+ <name>I81</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.9364700" lon="35.6505470">
+ <ele>0.000000</ele>
+ <time>2006-04-16T08:30:24.272Z</time>
+ <name>I82</name>
+ <sym>Drinking Water</sym>
+</wpt>
 </gpx>
