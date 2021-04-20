@@ -6,7 +6,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
- <time>2021-04-20T14:25:02Z</time>
+ <time>2021-04-20T14:37:28Z</time>
  <bounds minlat="54.494162" minlon="37.734550" maxlat="55.612370" maxlon="38.915546"/>
 </metadata>
 <wpt lat="55.6031090" lon="37.7621600">
@@ -804,8 +804,8 @@
 <wpt lat="54.9022478" lon="38.1950563">
  <time>2021-04-20T14:17:45.215Z</time>
  <name>EZ01</name>
- <cmt>Cредний. Cлив из трубы в бетонное кольцо. Дорожка подходит с Ю.</cmt>
- <desc>Cредний. Cлив из трубы в бетонное кольцо. Дорожка подходит с Ю.</desc>
+ <cmt>Внизу склона. Cредний. Cлив из трубы в бетонное кольцо. Дорожка подходит с Ю.</cmt>
+ <desc>Внизу склона. Cредний. Cлив из трубы в бетонное кольцо. Дорожка подходит с Ю.</desc>
  <sym>Airport</sym>
 </wpt>
 </gpx>
