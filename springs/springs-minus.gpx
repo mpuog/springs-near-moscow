@@ -6,14 +6,30 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
- <time>2021-04-19T14:03:13Z</time>
- <bounds minlat="54.886087" minlon="38.337049" maxlat="54.886087" maxlon="38.337049"/>
+ <time>2022-09-21T12:13:17Z</time>
+ <bounds minlat="54.886087" minlon="38.337049" maxlat="55.709875" maxlon="39.224542"/>
 </metadata>
 <wpt lat="54.8860870" lon="38.3370490">
  <time>2021-04-19T16:57:07.399Z</time>
  <name>W001</name>
  <cmt>Найти не удалось.</cmt>
  <desc>Найти не удалось.</desc>
+ <sym>Block, Red</sym>
+</wpt>
+<wpt lat="55.7095510" lon="39.2245420">
+ <ele>136.855194</ele>
+ <time>2016-09-25T11:52:03.003Z</time>
+ <name>W002</name>
+ <cmt>Не нашли родник отмеченный в Викимапии</cmt>
+ <desc>Не нашли родник отмеченный в Викимапии</desc>
+ <sym>Block, Red</sym>
+</wpt>
+<wpt lat="55.7098750" lon="39.2241270">
+ <ele>146.913605</ele>
+ <time>2016-09-25T14:35:04.001Z</time>
+ <name>W003</name>
+ <cmt>Тропа на З. родник отмеченный в Викимапии не нашли</cmt>
+ <desc>Тропа на З. родник отмеченный в Викимапии не нашли</desc>
  <sym>Block, Red</sym>
 </wpt>
 </gpx>
