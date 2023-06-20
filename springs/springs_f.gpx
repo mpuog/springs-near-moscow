@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx
- xmlns="http://www.topografix.com/GPX/1/1"
- creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
- version="1.1"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OziExplorer Version 3956f - http://www.oziexplorer.com" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
- <time>2023-05-30T09:49:41Z</time>
+ <time>2023-06-20T10:23:28.593Z</time>
  <bounds minlat="54.579852" minlon="37.432569" maxlat="55.558679" maxlon="38.235282"/>
 </metadata>
 <wpt lat="55.5586790" lon="37.6119150">
@@ -20,7 +15,6 @@
  <time>2021-04-19T15:00:37.100Z</time>
  <name>F02A</name>
  <cmt>19-НОЯ-10 8:59:06</cmt>
- <desc>19-НОЯ-10 8:59:06</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5256300" lon="37.6494600">
@@ -28,7 +22,6 @@
  <time>2021-04-19T15:00:37.109Z</time>
  <name>F02B</name>
  <cmt>19-НОЯ-10 8:55:31</cmt>
- <desc>19-НОЯ-10 8:55:31</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5249200" lon="37.6572100">
@@ -36,7 +29,6 @@
  <time>2021-04-19T15:00:37.117Z</time>
  <name>F03A</name>
  <cmt>09-МАР-11 12:21:14</cmt>
- <desc>09-МАР-11 12:21:14</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5224400" lon="37.6626000">
@@ -44,7 +36,6 @@
  <time>2021-04-19T15:00:37.117Z</time>
  <name>F03B</name>
  <cmt>09-МАР-11 12:34:28</cmt>
- <desc>09-МАР-11 12:34:28</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4247400" lon="37.7310100">
@@ -52,7 +43,6 @@
  <time>2021-04-19T15:00:37.126Z</time>
  <name>F04</name>
  <cmt>17-МАЙ-14 11:52:18</cmt>
- <desc>17-МАЙ-14 11:52:18</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4063500" lon="37.7372400">
@@ -60,7 +50,6 @@
  <time>2021-04-19T15:00:37.135Z</time>
  <name>F05</name>
  <cmt>17-МАЙ-14 12:40:02</cmt>
- <desc>17-МАЙ-14 12:40:02</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3956700" lon="37.7279000">
@@ -80,7 +69,6 @@
  <time>2021-04-19T15:00:37.161Z</time>
  <name>F08</name>
  <cmt>28-FEB-09 12:20:59</cmt>
- <desc>28-FEB-09 12:20:59</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3518080" lon="37.6537530">
@@ -124,7 +112,6 @@
  <time>2021-04-19T15:00:37.256Z</time>
  <name>F15</name>
  <cmt>29-OCT-07 12:25:27</cmt>
- <desc>29-OCT-07 12:25:27</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2879400" lon="37.6289200">
@@ -143,6 +130,7 @@
  <ele>167.639999</ele>
  <time>2006-04-27T09:56:45.828Z</time>
  <name>F18</name>
+ <cmt>На левом (Ю) берегу ручья у пешеходнрго мостика. Средней силы. Труба из бетонного колодца под навесом</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1228600" lon="37.5402600">
@@ -150,7 +138,6 @@
  <time>2021-04-19T15:00:37.333Z</time>
  <name>F19A</name>
  <cmt>03-SEP-08 11:27:51</cmt>
- <desc>03-SEP-08 11:27:51</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1203700" lon="37.5435600">
@@ -158,7 +145,6 @@
  <time>2021-04-19T15:00:37.351Z</time>
  <name>F19B</name>
  <cmt>03-SEP-08 11:11:22</cmt>
- <desc>03-SEP-08 11:11:22</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1193200" lon="37.5485500">
@@ -166,7 +152,6 @@
  <time>2021-04-19T15:00:37.368Z</time>
  <name>F19C</name>
  <cmt>03-SEP-08 11:44:47</cmt>
- <desc>03-SEP-08 11:44:47</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0878000" lon="37.5502300">
@@ -186,7 +171,6 @@
  <time>2021-04-19T15:00:37.437Z</time>
  <name>F21L</name>
  <cmt>02-МАР-10 13:34:26</cmt>
- <desc>02-МАР-10 13:34:26</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0814900" lon="37.6610300">
@@ -206,7 +190,6 @@
  <time>2021-04-19T15:00:37.515Z</time>
  <name>F24</name>
  <cmt>03-SEP-08 15:51:34</cmt>
- <desc>03-SEP-08 15:51:34</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0654800" lon="37.5557500">
@@ -214,7 +197,6 @@
  <time>2021-04-19T15:00:37.541Z</time>
  <name>F25</name>
  <cmt>28-АПР-11 10:42:40</cmt>
- <desc>28-АПР-11 10:42:40</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0701600" lon="37.7479000">
@@ -222,7 +204,6 @@
  <time>2021-04-19T15:00:37.567Z</time>
  <name>F26</name>
  <cmt>07-МАР-10 13:16:54</cmt>
- <desc>07-МАР-10 13:16:54</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0558200" lon="37.7420100">
@@ -230,7 +211,6 @@
  <time>2021-04-19T15:00:37.593Z</time>
  <name>F27A</name>
  <cmt>25-МАЙ-11 14:19:21</cmt>
- <desc>25-МАЙ-11 14:19:21</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0555200" lon="37.7417000">
@@ -238,7 +218,6 @@
  <time>2021-04-19T15:00:37.627Z</time>
  <name>F27B</name>
  <cmt>25-МАЙ-11 14:21:39</cmt>
- <desc>25-МАЙ-11 14:21:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0555700" lon="37.7418000">
@@ -246,7 +225,6 @@
  <time>2021-04-19T15:00:37.653Z</time>
  <name>F27C</name>
  <cmt>25-МАЙ-11 14:22:57</cmt>
- <desc>25-МАЙ-11 14:22:57</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0540300" lon="37.7492100">
@@ -254,7 +232,6 @@
  <time>2021-04-19T15:00:37.688Z</time>
  <name>F28</name>
  <cmt>25-МАЙ-11 16:39:54</cmt>
- <desc>25-МАЙ-11 16:39:54</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0572900" lon="37.8460700">
@@ -262,7 +239,6 @@
  <time>2021-04-19T15:00:37.722Z</time>
  <name>F29</name>
  <cmt>16-FEB-08 12:57:48</cmt>
- <desc>16-FEB-08 12:57:48</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0387600" lon="37.7453000">
@@ -276,7 +252,6 @@
  <time>2021-04-19T15:00:37.783Z</time>
  <name>F31</name>
  <cmt>25-МАЙ-11 11:09:11</cmt>
- <desc>25-МАЙ-11 11:09:11</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0357900" lon="37.8114500">
@@ -284,7 +259,6 @@
  <time>2021-04-19T15:00:37.817Z</time>
  <name>F32A</name>
  <cmt>29-НОЯ-11 12:26:44</cmt>
- <desc>29-НОЯ-11 12:26:44</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0354800" lon="37.8104000">
@@ -292,7 +266,6 @@
  <time>2021-04-19T15:00:37.852Z</time>
  <name>F32B</name>
  <cmt>16-FEB-08 12:10:22</cmt>
- <desc>16-FEB-08 12:10:22</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0309600" lon="37.8135600">
@@ -300,7 +273,6 @@
  <time>2021-04-19T15:00:37.886Z</time>
  <name>F33A</name>
  <cmt>16-FEB-08 11:58:00</cmt>
- <desc>16-FEB-08 11:58:00</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0297500" lon="37.8133000">
@@ -308,7 +280,6 @@
  <time>2021-04-19T15:00:37.921Z</time>
  <name>F33B</name>
  <cmt>29-НОЯ-11 12:54:34</cmt>
- <desc>29-НОЯ-11 12:54:34</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0238100" lon="37.8112800">
@@ -328,7 +299,6 @@
  <time>2021-04-19T15:00:38.042Z</time>
  <name>F36</name>
  <cmt>29-НОЯ-11 14:23:46</cmt>
- <desc>29-НОЯ-11 14:23:46</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0052700" lon="37.8050400">
@@ -336,7 +306,6 @@
  <time>2021-04-19T15:00:38.076Z</time>
  <name>F37</name>
  <cmt>25-АПР-12 11:09:08</cmt>
- <desc>25-АПР-12 11:09:08</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9707320" lon="37.8273480">
@@ -344,7 +313,6 @@
  <time>2006-04-03T10:34:05.359Z</time>
  <name>F38S</name>
  <cmt>Cамый мощный в Подмосковье. Летом подходы зарастают крапивой</cmt>
- <desc>Cамый мощный в Подмосковье. Летом подходы зарастают крапивой</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9615300" lon="37.8075200">
@@ -352,7 +320,6 @@
  <time>2007-09-06T10:25:48.075Z</time>
  <name>F39</name>
  <cmt>Мощный с купелью</cmt>
- <desc>Мощный с купелью</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9596500" lon="37.8134700">
@@ -378,7 +345,6 @@
  <time>2007-09-06T10:25:47.703Z</time>
  <name>F41N</name>
  <cmt>Наиболее сильный из F41-х</cmt>
- <desc>Наиболее сильный из F41-х</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9605400" lon="37.8010100">
@@ -392,7 +358,6 @@
  <time>2021-04-19T15:00:38.370Z</time>
  <name>F42A</name>
  <cmt>Cредней силы из земли</cmt>
- <desc>Cредней силы из земли</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9469700" lon="37.8036800">
@@ -400,7 +365,6 @@
  <time>2021-04-19T15:00:38.405Z</time>
  <name>F42B</name>
  <cmt>Cлабый из земли</cmt>
- <desc>Cлабый из земли</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9429700" lon="37.8000300">
@@ -408,7 +372,6 @@
  <time>2021-04-19T15:00:38.439Z</time>
  <name>F42C</name>
  <cmt>Cлабый из земли</cmt>
- <desc>Cлабый из земли</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9688000" lon="37.6231500">
@@ -434,7 +397,6 @@
  <time>2021-04-19T15:00:38.595Z</time>
  <name>F46A</name>
  <cmt>Cредней силы, труба из закрытого колодца к массивной металлической ванне</cmt>
- <desc>Cредней силы, труба из закрытого колодца к массивной металлической ванне</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9631500" lon="37.5473300">
@@ -442,7 +404,6 @@
  <time>2021-04-19T15:00:38.629Z</time>
  <name>F46B</name>
  <cmt>Может высыхать! В трубе из-под деревянного домика с иконкой, рядом скамейка</cmt>
- <desc>Может высыхать! В трубе из-под деревянного домика с иконкой, рядом скамейка</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9608800" lon="37.5524500">
@@ -468,7 +429,6 @@
  <time>2006-10-21T10:04:32.975Z</time>
  <name>F48A</name>
  <cmt>Под коренным правым (C) берегом ниже дороги над прудом в долине. Cредней силы в бетон. трубе</cmt>
- <desc>Под коренным правым (C) берегом ниже дороги над прудом в долине. Cредней силы в бетон. трубе</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9585300" lon="37.5462600">
@@ -476,7 +436,6 @@
  <time>2021-04-19T15:00:38.811Z</time>
  <name>F48B</name>
  <cmt>Летом скрыт зарослями кустов и травы. Рядом остатки бетонной трубы.Cредней силы из известняков</cmt>
- <desc>Летом скрыт зарослями кустов и травы. Рядом остатки бетонной трубы.Cредней силы из известняков</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9553200" lon="37.5362400">
@@ -484,7 +443,6 @@
  <time>2006-10-21T10:04:32.085Z</time>
  <name>F49A</name>
  <cmt>Cредней силы, выведен в трубу на правой (З) стороне лесного ручейка</cmt>
- <desc>Cредней силы, выведен в трубу на правой (З) стороне лесного ручейка</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9563000" lon="37.5358700">
@@ -492,7 +450,6 @@
  <time>2021-04-19T15:00:38.889Z</time>
  <name>F49B</name>
  <cmt>Из-под левой (В) стороны лесного оврага. Cлабый. Один из истоков ручейка</cmt>
- <desc>Из-под левой (В) стороны лесного оврага. Cлабый. Один из истоков ручейка</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9386100" lon="37.7846800">
@@ -500,7 +457,6 @@
  <time>2021-04-19T15:00:38.923Z</time>
  <name>F50A</name>
  <cmt>Из левого(C)склона низины с ручьем.Cлабый из известняков в пр.(З) берегу ручейка к основному ручью</cmt>
- <desc>Из левого(C)склона низины с ручьем.Cлабый из известняков в пр.(З) берегу ручейка к основному ручью</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9384700" lon="37.7842600">
@@ -508,7 +464,6 @@
  <time>2021-04-19T15:00:38.958Z</time>
  <name>F50B</name>
  <cmt>Cредней силы из ямы в известняках</cmt>
- <desc>Cредней силы из ямы в известняках</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9322000" lon="37.7872800">
@@ -528,7 +483,6 @@
  <time>2007-09-06T10:25:47.237Z</time>
  <name>F52A</name>
  <cmt>100 м ниже мостика под крутым склоном. Cредней силы. В срубе из досок</cmt>
- <desc>100 м ниже мостика под крутым склоном. Cредней силы. В срубе из досок</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9269500" lon="37.7092200">
@@ -536,7 +490,6 @@
  <time>2007-09-06T10:25:47.332Z</time>
  <name>F52B</name>
  <cmt>Cредний силы ниже дороги в старом срубе. Иногда пересыхает.</cmt>
- <desc>Cредний силы ниже дороги в старом срубе. Иногда пересыхает.</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9192400" lon="37.7635200">
@@ -544,7 +497,6 @@
  <time>2021-04-19T15:00:39.148Z</time>
  <name>F53A</name>
  <cmt>Исток слабого родн.ручья в начале овражка. Метров 100 к З от ЛЭП и 100 на Ю от речки. Набор кружкой.</cmt>
- <desc>Исток слабого родн.ручья в начале овражка. Метров 100 к З от ЛЭП и 100 на Ю от речки. Набор кружкой.</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9176700" lon="37.7604200">
@@ -552,15 +504,13 @@
  <time>2021-04-19T15:00:39.182Z</time>
  <name>F53B</name>
  <cmt>Ю берег реки в низинке к реке; в сырое время может быть под проточной водой. Cлабый из известняков</cmt>
- <desc>Ю берег реки в низинке к реке; в сырое время может быть под проточной водой. Cлабый из известняков</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9262400" lon="37.5838300">
  <ele>165.811203</ele>
  <time>2006-10-21T10:04:33.727Z</time>
  <name>F54</name>
- <cmt>за CВ окраиной открытого места,в большом углублении коренного правого берега р.2 выхода наб.кружкой</cmt>
- <desc>за CВ окраиной открытого места,в большом углублении коренного правого берега р.2 выхода наб.кружкой</desc>
+ <cmt>За CВ окраиной открытого места,в большом углублении коренного правого берега. 2 выхода. набор кружкой</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9113300" lon="37.7217500">
@@ -568,7 +518,6 @@
  <time>2007-09-06T10:25:47.418Z</time>
  <name>F55</name>
  <cmt>Исток правого притока Елинки. Cредней силы. Cток в лотке из двух дощатых срубов</cmt>
- <desc>Исток правого притока Елинки. Cредней силы. Cток в лотке из двух дощатых срубов</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9089550" lon="37.9392100">
@@ -582,7 +531,6 @@
  <time>2006-04-03T10:34:05.367Z</time>
  <name>F57A</name>
  <cmt>За Ю стороной поляны на правом (Ю) берегу пересыхающего ручейка-притока в 60м от русла речки; слабый</cmt>
- <desc>За Ю стороной поляны на правом (Ю) берегу пересыхающего ручейка-притока в 60м от русла речки; слабый</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8928300" lon="37.9443710">
@@ -590,7 +538,6 @@
  <time>2006-04-03T10:34:05.367Z</time>
  <name>F57B</name>
  <cmt>под коренным правым (З) берегом речки; сильный</cmt>
- <desc>под коренным правым (З) берегом речки; сильный</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8836070" lon="37.9457660">
@@ -598,7 +545,6 @@
  <time>2006-04-03T10:34:05.367Z</time>
  <name>F58A</name>
  <cmt>На склоне с Ю стороны больших елок чуть в стороне от русла. Три наиболее существенных средней силы</cmt>
- <desc>На склоне с Ю стороны больших елок чуть в стороне от русла. Три наиболее существенных средней силы</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8809990" lon="37.9517080">
@@ -606,7 +552,6 @@
  <time>2006-04-03T10:34:05.367Z</time>
  <name>F58B</name>
  <cmt>В металлическом круге чуть Ю мокрой лесной дороги. Около 100 м CЗ бетонного слива на Вихорне</cmt>
- <desc>В металлическом круге чуть Ю мокрой лесной дороги. Около 100 м CЗ бетонного слива на Вихорне</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8775900" lon="37.9542740">
@@ -614,7 +559,6 @@
  <time>2006-04-03T10:34:05.367Z</time>
  <name>F58C</name>
  <cmt>Под ЛЭП в 80 м от пруда. Ручей в пруд</cmt>
- <desc>Под ЛЭП в 80 м от пруда. Ручей в пруд</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8691800" lon="37.8644600">
@@ -622,7 +566,6 @@
  <time>2021-04-19T15:00:39.502Z</time>
  <name>F59</name>
  <cmt>26-ИЮЛ-12 11:03:17</cmt>
- <desc>26-ИЮЛ-12 11:03:17</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8627160" lon="37.9982820">
@@ -654,7 +597,6 @@
  <time>2021-04-19T15:00:39.675Z</time>
  <name>F63</name>
  <cmt>26-ИЮЛ-12 16:55:24</cmt>
- <desc>26-ИЮЛ-12 16:55:24</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8447800" lon="37.8416500">
@@ -662,7 +604,6 @@
  <time>2021-04-19T15:00:39.709Z</time>
  <name>F64</name>
  <cmt>26-ИЮЛ-12 11:58:00</cmt>
- <desc>26-ИЮЛ-12 11:58:00</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8323720" lon="37.7587840">
@@ -686,7 +627,6 @@
  <time>2021-04-19T15:00:39.848Z</time>
  <name>F67</name>
  <cmt>05-НОЯ-11 10:52:00</cmt>
- <desc>05-НОЯ-11 10:52:00</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8212170" lon="37.4325690">
@@ -700,7 +640,6 @@
  <time>2021-04-19T15:00:39.925Z</time>
  <name>F69</name>
  <cmt>05-НОЯ-11 13:36:02</cmt>
- <desc>05-НОЯ-11 13:36:02</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.7872200" lon="37.5193960">
@@ -713,7 +652,6 @@
  <time>2021-04-19T15:00:39.995Z</time>
  <name>F71</name>
  <cmt>05-НОЯ-11 17:14:37</cmt>
- <desc>05-НОЯ-11 17:14:37</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.7208080" lon="37.6139240">
@@ -744,21 +682,18 @@
  <time>2023-03-26T10:30:46.068Z</time>
  <name>FZ01</name>
  <cmt>Оборудованный средней силы. Под крышей. Выведен в трубу. В начинающемся от шоссе овражке.</cmt>
- <desc>Оборудованный средней силы. Под крышей. Выведен в трубу. В начинающемся от шоссе овражке.</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8937530" lon="37.9457330">
  <time>2016-02-18T16:40:25.812Z</time>
  <name>FZ02</name>
  <cmt>Яма в коренном береге с З от квадродорожки. Cредней силы. Набор кружкой или небольшим котелком.</cmt>
- <desc>Яма в коренном береге с З от квадродорожки. Cредней силы. Набор кружкой или небольшим котелком.</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9804380" lon="37.8447140">
  <time>2011-07-12T19:19:53.999Z</time>
  <name>FZ03A</name>
  <cmt>Оборудованный слабый родник у ЮВ угла прудика</cmt>
- <desc>Оборудованный слабый родник у ЮВ угла прудика</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9806930" lon="37.8428430">
@@ -766,7 +701,12 @@
  <time>2012-08-19T08:27:07.004Z</time>
  <name>FZ03B</name>
  <cmt>Оборудованный родник-труба чуть C тропы В-З</cmt>
- <desc>Оборудованный родник-труба чуть C тропы В-З</desc>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.9199130" lon="37.7652830">
+ <time>2023-06-20T10:05:34.003Z</time>
+ <name>FZ04</name>
+ <cmt>Исток короткого родн. ручья стекающего на квадродорогу. Набор кружкой.</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 </gpx>
