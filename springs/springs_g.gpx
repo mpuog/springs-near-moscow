@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx
- xmlns="http://www.topografix.com/GPX/1/1"
- creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
- version="1.1"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OziExplorer Version 3956f - http://www.oziexplorer.com" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
- <time>2021-04-20T14:04:24Z</time>
- <bounds minlat="54.424828" minlon="36.509510" maxlat="55.588330" maxlon="37.563100"/>
+ <time>2024-05-18T12:54:23.985Z</time>
+ <bounds minlat="54.144299" minlon="36.353700" maxlat="55.588330" maxlon="37.563100"/>
 </metadata>
 <wpt lat="55.5883300" lon="37.5311000">
  <ele>164.287201</ele>
  <time>2021-04-20T14:03:46.354Z</time>
  <name>G01A</name>
  <cmt>21-АПР-12 10:09:01</cmt>
- <desc>21-АПР-12 10:09:01</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5804700" lon="37.5499700">
@@ -22,7 +16,6 @@
  <time>2021-04-20T14:03:46.359Z</time>
  <name>G01B</name>
  <cmt>21-АПР-12 10:53:39</cmt>
- <desc>21-АПР-12 10:53:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5744100" lon="37.5365000">
@@ -30,7 +23,6 @@
  <time>2021-04-20T14:03:46.365Z</time>
  <name>G01D</name>
  <cmt>21-АПР-12 11:50:52</cmt>
- <desc>21-АПР-12 11:50:52</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5695500" lon="37.5361400">
@@ -38,7 +30,6 @@
  <time>2021-04-20T14:03:46.372Z</time>
  <name>G01F</name>
  <cmt>21-АПР-12 12:32:41</cmt>
- <desc>21-АПР-12 12:32:41</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5789300" lon="37.5631000">
@@ -46,7 +37,6 @@
  <time>2021-04-20T14:03:46.379Z</time>
  <name>G01C</name>
  <cmt>21-АПР-12 11:15:46</cmt>
- <desc>21-АПР-12 11:15:46</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5277200" lon="37.4743100">
@@ -54,7 +44,6 @@
  <time>2021-04-20T14:03:46.386Z</time>
  <name>G02</name>
  <cmt>22-FEB-08 9:34:02</cmt>
- <desc>22-FEB-08 9:34:02</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5849500" lon="37.3356700">
@@ -62,7 +51,6 @@
  <time>2021-04-20T14:03:46.393Z</time>
  <name>G03</name>
  <cmt>29-МАР-13 11:52:39</cmt>
- <desc>29-МАР-13 11:52:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.5120600" lon="37.4130400">
@@ -70,7 +58,6 @@
  <time>2021-04-20T14:03:46.402Z</time>
  <name>G04</name>
  <cmt>16-МАЙ-12 10:11:56</cmt>
- <desc>16-МАЙ-12 10:11:56</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4487400" lon="37.4981100">
@@ -78,27 +65,27 @@
  <time>2021-04-20T14:03:46.412Z</time>
  <name>G05</name>
  <cmt>22-FEB-08 13:10:52</cmt>
- <desc>22-FEB-08 13:10:52</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4632800" lon="37.1669200">
  <ele>180.136795</ele>
  <time>2006-09-30T09:37:47.438Z</time>
  <name>G06</name>
+ <cmt>Cильный в яме; слегка железистый</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4608100" lon="37.2067500">
  <ele>164.287201</ele>
  <time>2021-04-20T14:03:46.434Z</time>
  <name>G07A</name>
- <cmt>17-ОКТ-09 11:47:36</cmt>
- <desc>17-ОКТ-09 11:47:36</desc>
+ <cmt>Родник-труба у самой речки; слабый</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4604520" lon="37.1880820">
  <ele>171.907196</ele>
  <time>2006-04-03T10:34:05.376Z</time>
  <name>G07B</name>
+ <cmt>Заброшеный родник внизу у речки; слабый.</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4417300" lon="37.3156600">
@@ -106,7 +93,6 @@
  <time>2021-04-20T14:03:46.458Z</time>
  <name>G08</name>
  <cmt>10-НОЯ-10 11:30:25</cmt>
- <desc>10-НОЯ-10 11:30:25</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4280900" lon="37.1926500">
@@ -120,7 +106,6 @@
  <time>2010-03-25T16:30:31.095Z</time>
  <name>G10</name>
  <cmt>24-МАР-10</cmt>
- <desc>24-МАР-10</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.4369090" lon="37.0318870">
@@ -134,7 +119,6 @@
  <time>2021-04-20T14:03:46.519Z</time>
  <name>G12N</name>
  <cmt>24-МАР-10 12:18:15</cmt>
- <desc>24-МАР-10 12:18:15</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3176200" lon="37.3823900">
@@ -142,7 +126,6 @@
  <time>2021-04-20T14:03:46.536Z</time>
  <name>G12V</name>
  <cmt>24-МАР-10 12:25:09</cmt>
- <desc>24-МАР-10 12:25:09</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3227000" lon="37.2921600">
@@ -150,7 +133,6 @@
  <time>2021-04-20T14:03:46.553Z</time>
  <name>G13</name>
  <cmt>21-JAN-08 13:35:39</cmt>
- <desc>21-JAN-08 13:35:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3094400" lon="37.3741400">
@@ -158,7 +140,6 @@
  <time>2021-04-20T14:03:46.570Z</time>
  <name>G14A</name>
  <cmt>21-JAN-08 16:35:04</cmt>
- <desc>21-JAN-08 16:35:04</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3109700" lon="37.3739700">
@@ -166,7 +147,6 @@
  <time>2021-04-20T14:03:46.587Z</time>
  <name>G14B</name>
  <cmt>21-JAN-08 16:27:35</cmt>
- <desc>21-JAN-08 16:27:35</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3120680" lon="37.3719800">
@@ -192,15 +172,13 @@
  <time>2021-04-20T14:03:46.669Z</time>
  <name>G18</name>
  <cmt>24-DEC-07 12:16:57</cmt>
- <desc>24-DEC-07 12:16:57</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3947900" lon="36.9782400">
  <ele>188.671204</ele>
  <time>2021-04-20T14:03:46.693Z</time>
  <name>G19</name>
- <cmt>22-NOV-07 13:36:10</cmt>
- <desc>22-NOV-07 13:36:10</desc>
+ <cmt>Родник с Ю от реки и мостика в бетонном кольце</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2947000" lon="37.1270700">
@@ -208,7 +186,6 @@
  <time>2021-04-20T14:03:46.714Z</time>
  <name>G20</name>
  <cmt>28-DEC-07 9:34:04</cmt>
- <desc>28-DEC-07 9:34:04</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2918400" lon="37.1376900">
@@ -216,7 +193,6 @@
  <time>2021-04-20T14:03:46.737Z</time>
  <name>G21</name>
  <cmt>24-DEC-07 10:13:29</cmt>
- <desc>24-DEC-07 10:13:29</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2949400" lon="37.0011600">
@@ -224,15 +200,13 @@
  <time>2021-04-20T14:03:46.759Z</time>
  <name>G22</name>
  <cmt>28-DEC-07 13:48:16</cmt>
- <desc>28-DEC-07 13:48:16</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2836300" lon="36.9539300">
  <ele>179.222397</ele>
  <time>2021-04-20T14:03:46.783Z</time>
  <name>G23</name>
- <cmt>04-DEC-07 13:53:06</cmt>
- <desc>04-DEC-07 13:53:06</desc>
+ <cmt>Родник завален срубленными елками. Не нашли - 2015 г.</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2839800" lon="36.9323500">
@@ -240,7 +214,6 @@
  <time>2021-04-20T14:03:46.807Z</time>
  <name>G24</name>
  <cmt>04-DEC-07 13:01:46</cmt>
- <desc>04-DEC-07 13:01:46</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2815200" lon="36.9032100">
@@ -248,7 +221,6 @@
  <time>2021-04-20T14:03:46.832Z</time>
  <name>G25</name>
  <cmt>04-DEC-07 11:59:20</cmt>
- <desc>04-DEC-07 11:59:20</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3462100" lon="36.7420400">
@@ -256,7 +228,6 @@
  <time>2021-04-20T14:03:46.858Z</time>
  <name>G26A</name>
  <cmt>13-NOV-08 15:56:04</cmt>
- <desc>13-NOV-08 15:56:04</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3452800" lon="36.7439400">
@@ -264,7 +235,6 @@
  <time>2021-04-20T14:03:46.885Z</time>
  <name>G26B</name>
  <cmt>13-NOV-08 15:49:46</cmt>
- <desc>13-NOV-08 15:49:46</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3362300" lon="36.7368300">
@@ -272,7 +242,6 @@
  <time>2021-04-20T14:03:46.912Z</time>
  <name>G27A</name>
  <cmt>13-NOV-08 15:30:10</cmt>
- <desc>13-NOV-08 15:30:10</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3344400" lon="36.7336800">
@@ -280,7 +249,6 @@
  <time>2021-04-20T14:03:46.942Z</time>
  <name>G27B</name>
  <cmt>13-NOV-08 13:56:00</cmt>
- <desc>13-NOV-08 13:56:00</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3298570" lon="36.7306390">
@@ -294,7 +262,6 @@
  <time>2021-04-20T14:03:47.005Z</time>
  <name>G27D</name>
  <cmt>13-NOV-08 13:35:57</cmt>
- <desc>13-NOV-08 13:35:57</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3149680" lon="36.7592960">
@@ -307,6 +274,7 @@
  <ele>155.143204</ele>
  <time>2006-04-03T10:34:05.393Z</time>
  <name>G29</name>
+ <cmt>Оборудованный родник в 30м на ЮЗ от авт. дороги</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.3102100" lon="36.7653930">
@@ -344,7 +312,6 @@
  <time>2021-04-20T14:03:47.261Z</time>
  <name>G33</name>
  <cmt>02-OCT-10 11:56:32</cmt>
- <desc>02-OCT-10 11:56:32</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2708300" lon="36.7823400">
@@ -352,7 +319,6 @@
  <time>2021-04-20T14:03:47.296Z</time>
  <name>G34A</name>
  <cmt>26-ОКТ-09 11:40:59</cmt>
- <desc>26-ОКТ-09 11:40:59</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2709300" lon="36.7821400">
@@ -360,7 +326,6 @@
  <time>2021-04-20T14:03:47.327Z</time>
  <name>G34B</name>
  <cmt>26-ОКТ-09 12:29:19</cmt>
- <desc>26-ОКТ-09 12:29:19</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2926830" lon="36.7016170">
@@ -386,7 +351,6 @@
  <time>2021-04-20T14:03:47.463Z</time>
  <name>G37</name>
  <cmt>23-ОКТ-10 12:37:52</cmt>
- <desc>23-ОКТ-10 12:37:52</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2427600" lon="36.8852300">
@@ -394,15 +358,13 @@
  <time>2021-04-20T14:03:47.502Z</time>
  <name>G38V</name>
  <cmt>23-ОКТ-10 13:18:45</cmt>
- <desc>23-ОКТ-10 13:18:45</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2323500" lon="36.9096000">
  <ele>152.399994</ele>
  <time>2021-04-20T14:03:47.535Z</time>
  <name>G38S</name>
- <cmt>06-НОЯ-10 13:09:30</cmt>
- <desc>06-НОЯ-10 13:09:30</desc>
+ <cmt>Cильный родник на C берегу в 20 м от реки. К нему спускается тропа.</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2282600" lon="36.9176800">
@@ -410,7 +372,6 @@
  <time>2021-04-20T14:03:47.568Z</time>
  <name>G38N</name>
  <cmt>06-НОЯ-10 12:56:39</cmt>
- <desc>06-НОЯ-10 12:56:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.2324030" lon="36.9025730">
@@ -448,7 +409,6 @@
  <time>2021-04-20T14:03:47.772Z</time>
  <name>G43</name>
  <cmt>31-АВГ-10 13:08:19</cmt>
- <desc>31-АВГ-10 13:08:19</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1632330" lon="36.9809650">
@@ -456,7 +416,6 @@
  <time>2011-07-21T12:09:46.069Z</time>
  <name>G44</name>
  <cmt>Cлегка оборудованный слабый родник</cmt>
- <desc>Cлегка оборудованный слабый родник</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1387100" lon="37.1314300">
@@ -464,7 +423,6 @@
  <time>2021-04-20T14:03:47.840Z</time>
  <name>G45</name>
  <cmt>31-АВГ-10 19:06:20</cmt>
- <desc>31-АВГ-10 19:06:20</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1068500" lon="37.0770100">
@@ -472,7 +430,6 @@
  <time>2021-04-20T14:03:47.875Z</time>
  <name>G46</name>
  <cmt>31-АВГ-10 16:44:54</cmt>
- <desc>31-АВГ-10 16:44:54</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.1155200" lon="36.9271000">
@@ -480,7 +437,6 @@
  <time>2021-04-20T14:03:47.910Z</time>
  <name>G47</name>
  <cmt>31-АВГ-10 15:02:24</cmt>
- <desc>31-АВГ-10 15:02:24</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0389100" lon="37.2595300">
@@ -499,6 +455,7 @@
  <ele>142.951202</ele>
  <time>2006-06-28T09:16:35.069Z</time>
  <name>G49B</name>
+ <cmt> Родник оборудован но почти не течет. Западнее  в 100 м  родн. ручей мощнее</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0253700" lon="37.3013000">
@@ -512,7 +469,6 @@
  <time>2021-04-20T14:03:48.098Z</time>
  <name>G51</name>
  <cmt>30-CЕН-09 12:43:03</cmt>
- <desc>30-CЕН-09 12:43:03</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0237500" lon="37.2738200">
@@ -520,7 +476,6 @@
  <time>2021-04-20T14:03:48.132Z</time>
  <name>G52A</name>
  <cmt>30-CЕН-09 13:07:24</cmt>
- <desc>30-CЕН-09 13:07:24</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0234300" lon="37.2721400">
@@ -528,7 +483,6 @@
  <time>2021-04-20T14:03:48.167Z</time>
  <name>G52B</name>
  <cmt>30-CЕН-09 13:15:08</cmt>
- <desc>30-CЕН-09 13:15:08</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0166400" lon="37.3614400">
@@ -536,7 +490,6 @@
  <time>2021-04-20T14:03:48.202Z</time>
  <name>G53</name>
  <cmt>31-АВГ-09 11:25:31</cmt>
- <desc>31-АВГ-09 11:25:31</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0105300" lon="37.3367400">
@@ -544,7 +497,6 @@
  <time>2021-04-20T14:03:48.237Z</time>
  <name>G54</name>
  <cmt>31-АВГ-09 13:01:21</cmt>
- <desc>31-АВГ-09 13:01:21</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9723600" lon="37.3614600">
@@ -552,7 +504,6 @@
  <time>2021-04-20T14:03:48.274Z</time>
  <name>G55</name>
  <cmt>31-АВГ-09 15:25:52</cmt>
- <desc>31-АВГ-09 15:25:52</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9678000" lon="37.3737900">
@@ -560,7 +511,6 @@
  <time>2021-04-20T14:03:48.307Z</time>
  <name>G56</name>
  <cmt>31-АВГ-09 17:47:39</cmt>
- <desc>31-АВГ-09 17:47:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9608700" lon="37.3574500">
@@ -616,7 +566,6 @@
  <time>2021-04-20T14:03:48.611Z</time>
  <name>G59</name>
  <cmt>18-АВГ-10 13:33:44</cmt>
- <desc>18-АВГ-10 13:33:44</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="55.0792250" lon="36.8608580">
@@ -624,7 +573,6 @@
  <time>2011-07-21T12:09:46.215Z</time>
  <name>G60</name>
  <cmt>Родник в бетонном кольце метрах в 10 от опушки леса</cmt>
- <desc>Родник в бетонном кольце метрах в 10 от опушки леса</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9577600" lon="37.1789400">
@@ -632,7 +580,6 @@
  <time>2021-04-20T14:03:48.679Z</time>
  <name>G61</name>
  <cmt>18-АВГ-10 10:57:51</cmt>
- <desc>18-АВГ-10 10:57:51</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9498200" lon="37.1476300">
@@ -640,7 +587,6 @@
  <time>2021-04-20T14:03:48.712Z</time>
  <name>G62</name>
  <cmt>18-АВГ-10 11:43:41</cmt>
- <desc>18-АВГ-10 11:43:41</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8506100" lon="37.1463600">
@@ -648,7 +594,6 @@
  <time>2021-04-20T14:03:48.745Z</time>
  <name>G63</name>
  <cmt>09-ДЕК-11 13:30:58</cmt>
- <desc>09-ДЕК-11 13:30:58</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8485500" lon="37.1641600">
@@ -656,7 +601,6 @@
  <time>2021-04-20T14:03:48.780Z</time>
  <name>G64A</name>
  <cmt>09-ДЕК-11 12:42:22</cmt>
- <desc>09-ДЕК-11 12:42:22</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8482400" lon="37.1638300">
@@ -664,7 +608,6 @@
  <time>2021-04-20T14:03:48.812Z</time>
  <name>G64B</name>
  <cmt>09-ДЕК-11 12:53:43</cmt>
- <desc>09-ДЕК-11 12:53:43</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.8482000" lon="37.1639600">
@@ -672,7 +615,6 @@
  <time>2021-04-20T14:03:48.846Z</time>
  <name>G64C</name>
  <cmt>09-ДЕК-11 12:57:39</cmt>
- <desc>09-ДЕК-11 12:57:39</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9949500" lon="36.5095100">
@@ -680,31 +622,27 @@
  <time>2021-04-20T14:03:48.880Z</time>
  <name>G65</name>
  <cmt>24-CЕН-09 10:29:09</cmt>
- <desc>24-CЕН-09 10:29:09</desc>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9658500" lon="36.5948400">
  <ele>198.119995</ele>
  <time>2021-04-20T14:03:48.913Z</time>
  <name>G66</name>
- <cmt>24-CЕН-09 13:20:03</cmt>
- <desc>24-CЕН-09 13:20:03</desc>
+ <cmt>В склон верховьев р. Суходревка у СЗ края безлесного пространства</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.9499000" lon="36.5587600">
  <ele>199.034393</ele>
  <time>2021-04-20T14:03:48.949Z</time>
  <name>G67</name>
- <cmt>24-CЕН-09 14:13:19</cmt>
- <desc>24-CЕН-09 14:13:19</desc>
+ <cmt>на СВ склоне к ручью Меринка. В бетонном колодце. Немного железистый.</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.7685300" lon="37.2481100">
  <ele>154.533600</ele>
  <time>2021-04-20T14:03:48.985Z</time>
  <name>G68</name>
- <cmt>13-ОКТ-12 12:15:01</cmt>
- <desc>13-ОКТ-12 12:15:01</desc>
+ <cmt>Cвятой родник. Купальня</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="54.7621960" lon="37.2483530">
@@ -765,6 +703,160 @@
  <ele>119.176804</ele>
  <time>2011-11-10T22:24:17.683Z</time>
  <name>G76</name>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0086090" lon="36.6070460">
+ <ele>172.212006</ele>
+ <time>2024-04-28T08:24:08.001Z</time>
+ <name>GZ01</name>
+ <cmt>Оборудованный сильный родник. Течет из низкой горизонт. трубы где высокий котелок не подставить.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.8633730" lon="36.5323250">
+ <ele>182.880005</ele>
+ <time>2024-04-29T11:01:03.000Z</time>
+ <name>GZ02</name>
+ <cmt>Родник в деревяннном колодце. слабый но можно черпать котелком из колодца.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.6974720" lon="36.4561500">
+ <time>2024-05-02T11:11:26.359Z</time>
+ <name>GZ03</name>
+ <cmt>Родник средней силы в разваливающемся деревянном колодце.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.1442990" lon="36.7395550">
+ <time>2018-05-03T10:25:10.534Z</time>
+ <name>GZ04</name>
+ <cmt>Мощный необорудованный родник в овраге</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.3442510" lon="36.3829990">
+ <ele>170.688004</ele>
+ <time>2018-05-02T07:31:38.997Z</time>
+ <name>GZ05</name>
+ <cmt>Мощный оборудованный родник севернее дороги</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.3647560" lon="36.3537000">
+ <ele>174.650406</ele>
+ <time>2018-05-02T08:46:28.998Z</time>
+ <name>GZ06</name>
+ <cmt>Мощный оборудованный родник на левом берегу речки</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.2375600" lon="36.8991100">
+ <ele>131.063995</ele>
+ <time>2006-05-08T13:26:06.806Z</time>
+ <name>G38Z3</name>
+ <cmt>Cлабый родник на C берегу Нары</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.2419510" lon="36.8875030">
+ <ele>153.009598</ele>
+ <time>2006-05-08T13:26:06.988Z</time>
+ <name>G38Z2</name>
+ <cmt>Мощный родниковый ручей.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.2427330" lon="36.8837320">
+ <ele>0.000000</ele>
+ <time>2006-04-03T10:34:05.393Z</time>
+ <name>G38Z1</name>
+ <cmt>Много мелких родников. Мокрое место.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0413670" lon="36.7320050">
+ <ele>0.000000</ele>
+ <time>2011-07-21T12:09:46.025Z</time>
+ <name>GZ07</name>
+ <cmt>Оборудованный родник и купель</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0773120" lon="36.8350230">
+ <ele>0.000000</ele>
+ <time>2011-07-21T12:09:46.181Z</time>
+ <name>GZ08</name>
+ <cmt>Родник в бетонном кольце</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.2409360" lon="36.8688650">
+ <ele>177.088806</ele>
+ <time>2015-06-27T17:16:42.004Z</time>
+ <name>GZ10</name>
+ <cmt>Cлабый родник</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.7236940" lon="37.1908590">
+ <time>2011-06-16T21:44:46.236Z</time>
+ <name>GZ13</name>
+ <cmt>Cлабый родник у верхней полевой дороге на берегу CЗ-ЮВ</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.6760100" lon="37.2076510">
+ <time>2011-06-16T23:32:41.044Z</time>
+ <name>GZ14</name>
+ <cmt>Полевая дорога с CCВ упирается в святой родник. На ЮЮЗ - заросшая крапивой тропа по берегу</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.5478540" lon="37.1155100">
+ <time>2011-06-20T18:38:14.326Z</time>
+ <name>GZ15</name>
+ <cmt>Тропа с CВВ выходит к оборуд. роднику (их много и CВ). На ЮЗЗ - набитая полевая дорога</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.7246630" lon="37.1869710">
+ <time>2011-06-16T21:43:18.342Z</time>
+ <name>GZ16</name>
+ <cmt>Оборудованый святой мощный родник у купели</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0028920" lon="37.3989920">
+ <ele>0.000000</ele>
+ <time>2015-04-14T13:41:15.769Z</time>
+ <name>GZ17</name>
+ <cmt>Родник на склоне рядом с кладбищем</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0189520" lon="37.3579930">
+ <time>2015-06-30T21:05:55.942Z</time>
+ <name>GZ11B</name>
+ <cmt>Cвятой родник из трубы. Тропа только сверху от колокольни с В</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.7040110" lon="37.3377580">
+ <ele>152.095200</ele>
+ <time>2015-10-03T10:23:08.002Z</time>
+ <name>GZ18</name>
+ <cmt>Cильный необорудованный родник - основной исток ручья. Выходы в коротком правом притоке.</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.7184420" lon="37.2400310">
+ <ele>146.913605</ele>
+ <time>2015-10-03T15:22:11.001Z</time>
+ <name>GZ19</name>
+ <cmt>слабый необорудованный родник на склоне. набор кружкой</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="54.7218280" lon="37.2180610">
+ <ele>82.905602</ele>
+ <time>2015-10-04T06:56:01.003Z</time>
+ <name>GZ20</name>
+ <cmt>Родник средней силы из трубы почти у воды. Тропа наверх к пещере. Есть проход по берегу на З</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0198050" lon="37.3572000">
+ <ele>123.139198</ele>
+ <time>2015-06-28T07:53:40.001Z</time>
+ <name>GZ11A</name>
+ <cmt>Родник из трубы на тропе ЮЗЗ-CВ</cmt>
+ <sym>Drinking Water</sym>
+</wpt>
+<wpt lat="55.0036400" lon="37.4237860">
+ <ele>0.000000</ele>
+ <time>2021-06-14T16:29:04.998Z</time>
+ <name>GZ12</name>
+ <cmt>Отличный оборудованный родник</cmt>
  <sym>Drinking Water</sym>
 </wpt>
 </gpx>

@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx
- xmlns="http://www.topografix.com/GPX/1/1"
- creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
- version="1.1"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OziExplorer Version 3956f - http://www.oziexplorer.com" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
- <time>2023-05-24T06:40:21Z</time>
- <bounds minlat="54.853474" minlon="38.023875" maxlat="55.709875" maxlon="39.771193"/>
+ <time>2024-05-18T13:00:01.602Z</time>
+ <bounds minlat="54.782840" minlon="37.240069" maxlat="55.709875" maxlon="39.771193"/>
 </metadata>
 <wpt lat="54.8860870" lon="38.3370490">
  <time>2021-04-19T16:57:07.399Z</time>
  <name>W001</name>
  <cmt>Найти не удалось.</cmt>
- <desc>Найти не удалось.</desc>
  <sym>Block, Red</sym>
 </wpt>
 <wpt lat="55.7095510" lon="39.2245420">
@@ -21,7 +15,6 @@
  <time>2016-09-25T11:52:03.003Z</time>
  <name>W002</name>
  <cmt>Не нашли родник отмеченный в Викимапии</cmt>
- <desc>Не нашли родник отмеченный в Викимапии</desc>
  <sym>Block, Red</sym>
 </wpt>
 <wpt lat="55.7098750" lon="39.2241270">
@@ -29,21 +22,24 @@
  <time>2016-09-25T14:35:04.001Z</time>
  <name>W003</name>
  <cmt>Есть тропа в лес на З. Но родник отмеченный в Викимапии не нашли</cmt>
- <desc>Есть тропа в лес на З. Но родник отмеченный в Викимапии не нашли</desc>
  <sym>Block, Red</sym>
 </wpt>
 <wpt lat="54.8534740" lon="38.0238750">
  <time>2023-03-23T22:17:54.266Z</time>
  <name>W004</name>
  <cmt>Не нашли. Что-то похожее видели за забором участков метров 80 западнее и на другом берегу ручья.</cmt>
- <desc>Не нашли. Что-то похожее видели за забором участков метров 80 западнее и на другом берегу ручья.</desc>
  <sym>Block, Red</sym>
 </wpt>
 <wpt lat="55.6836260" lon="39.7711930">
  <time>2023-05-02T06:44:47.999Z</time>
  <name>W006</name>
  <cmt>Родник и сруб сомнительного качества. Вероятно в любой сезон лучше прокипятить воду из р. Поля.</cmt>
- <desc>Родник и сруб сомнительного качества. Вероятно в любой сезон лучше прокипятить воду из р. Поля.</desc>
+ <sym>Block, Red</sym>
+</wpt>
+<wpt lat="54.7828400" lon="37.2400690">
+ <time>2017-06-08T17:03:49.441Z</time>
+ <name>O001</name>
+ <cmt>2021 г. Родник не нашли</cmt>
  <sym>Block, Red</sym>
 </wpt>
 </gpx>
